@@ -17,6 +17,10 @@ headers = {
 response = requests.get(base_url + endpoint, params=params, headers=headers)
 
 if response.status_code == 200:
-    print(response.json())
+    data = response.json()
+    for team in data:
+        print("School:", team["school"])
+        print("Conference:", team["conference"])
+        print()
 else:
     print('Error:', response.status_code)
