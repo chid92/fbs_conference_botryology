@@ -18,3 +18,11 @@ class CFDB:
                        'conference': team['conference']}
                       for team in read_db('/teams/fbs', {'year': '2023'}).json()
                       if team['conference'] in self.conferences]
+        for team in read_db('/teams/fbs', {'year': '2023'}).json():
+            print(team['conference'])
+        self.teams.append({'school': 'Notre Dame',
+                           'conference': 'FBS Independents'})
+        self.teams.append({'school': 'Connecticut',
+                           'conference': 'FBS Independents'})
+        self.teams.append({'school': 'SMU',
+                           'conference': 'American Athletic'})
