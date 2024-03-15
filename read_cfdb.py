@@ -29,6 +29,8 @@ class CFDB:
                            'conference': 'FBS Independents'})
         self.teams.append({'school': 'SMU',
                            'conference': 'American Athletic'})
+        self.teams.append({'school': 'Tulane',
+                           'conference': 'American Athletic'})
 
     def write_matchups_csv(self, filename):
         if os.path.exists(filename):
