@@ -10,8 +10,7 @@ class CFGraph:
     def __init__(self, filename):
         self.graph = nx.DiGraph()
         for index, row in pd.read_csv(filename).iterrows():
-            if row['games'] != 0:
-                self.graph.add_edge(row['team1'], row['team2'], weight=(1 / row['games']))
+            self.graph.add_edge(row['team1'], row['team2'], weight=row['games'])
 
         pos = nx.spring_layout(self.graph)
         nx.draw(self.graph, pos,
