@@ -11,19 +11,6 @@ class CFGraph:
         for index, row in pd.read_csv(filename).iterrows():
             self.graph.add_edge(row['team1'], row['team2'], weight=row['games'])
 
-        pos = nx.spring_layout(self.graph)
-        nx.draw(self.graph, pos,
-                with_labels=True,
-                node_size=1000,
-                node_color="skyblue",
-                font_size=5,
-                font_weight="bold",
-                arrowsize=1)
-        nx.draw_networkx_edge_labels(self.graph, pos,
-                                     edge_labels=nx.get_edge_attributes(self.graph, 'weight'),
-                                     font_size=5,
-                                     font_color='red')
-
     def partition_graph(self, num_partitions, num_iterations=1000):
         nodes = list(self.graph.nodes())
         random.shuffle(nodes)
@@ -33,8 +20,10 @@ class CFGraph:
         for _ in range(num_iterations):
             improved = False
             for i, j in itertools.combinations(range(num_partitions), 2):
-                cut = nx.algorithms.cuts.cut_size(self.graph, partitions[i], partitions[j], weight='weight')
-
+                cut = nx.algorithms.cuts.cut_size(self.graph,
+                                                  partitions[i],
+                                                  partitions[j],
+                                                  weight='weight')
                 for u in partitions[i]:
                     for v in partitions[j]:
                         new_partitions = [partitions[p][:] for p in range(num_partitions)]
