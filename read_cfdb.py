@@ -21,12 +21,10 @@ class CFDB:
                        'conference': team['conference']}
                       for team in read_db('/teams/fbs', {'year': '2023'}).json()
                       if team['conference'] in self.conferences]
-        self.teams.extend([
-            {'school': 'Notre Dame', 'conference': 'FBS Independents'},
-            {'school': 'Connecticut', 'conference': 'FBS Independents'},
-            {'school': 'SMU', 'conference': 'American Athletic'},
-            {'school': 'Tulane', 'conference': 'American Athletic'}
-        ])
+        self.teams.extend([{'school': 'Notre Dame', 'conference': 'FBS Independents'},
+                           {'school': 'Connecticut', 'conference': 'FBS Independents'},
+                           {'school': 'SMU', 'conference': 'American Athletic'},
+                           {'school': 'Tulane', 'conference': 'American Athletic'}])
 
     def write_matchups_csv(self, filename):
         if os.path.exists(filename):
