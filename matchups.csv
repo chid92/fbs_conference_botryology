@@ -1,0 +1,2557 @@
+,team1,team2,games
+0,Alabama,Arizona,0
+1,Alabama,Arizona State,0
+2,Alabama,Arkansas,34
+3,Alabama,Auburn,82
+4,Alabama,Baylor,2
+5,Alabama,Boston College,4
+6,Alabama,BYU,1
+7,Alabama,California,2
+8,Alabama,Cincinnati,6
+9,Alabama,Clemson,18
+10,Alabama,Colorado,3
+11,Alabama,Duke,5
+12,Alabama,Florida,43
+13,Alabama,Florida State,5
+14,Alabama,Georgia,71
+15,Alabama,Georgia Tech,52
+16,Alabama,Houston,10
+17,Alabama,Illinois,1
+18,Alabama,Indiana,0
+19,Alabama,Iowa,0
+20,Alabama,Iowa State,1
+21,Alabama,Kansas,0
+22,Alabama,Kansas State,1
+23,Alabama,Kentucky,42
+24,Alabama,Louisville,4
+25,Alabama,LSU,87
+26,Alabama,Maryland,3
+27,Alabama,Miami,18
+28,Alabama,Michigan,6
+29,Alabama,Michigan State,2
+30,Alabama,Minnesota,1
+31,Alabama,Mississippi State,106
+32,Alabama,Missouri,7
+33,Alabama,NC State,5
+34,Alabama,Nebraska,5
+35,Alabama,North Carolina,1
+36,Alabama,Northwestern,0
+37,Alabama,Ohio State,5
+38,Alabama,Oklahoma,6
+39,Alabama,Oklahoma State,1
+40,Alabama,Ole Miss,67
+41,Alabama,Oregon,0
+42,Alabama,Oregon State,0
+43,Alabama,Penn State,15
+44,Alabama,Pittsburgh,0
+45,Alabama,Purdue,0
+46,Alabama,Rutgers,2
+47,Alabama,South Carolina,16
+48,Alabama,Stanford,2
+49,Alabama,Syracuse,2
+50,Alabama,TCU,5
+51,Alabama,Tennessee,105
+52,Alabama,Texas,11
+53,Alabama,Texas A&M,16
+54,Alabama,Texas Tech,1
+55,Alabama,UCF,1
+56,Alabama,UCLA,3
+57,Alabama,USC,8
+58,Alabama,Utah,1
+59,Alabama,Vanderbilt,85
+60,Alabama,Virginia,0
+61,Alabama,Virginia Tech,13
+62,Alabama,Wake Forest,0
+63,Alabama,Washington,5
+64,Alabama,Washington State,1
+65,Alabama,West Virginia,1
+66,Alabama,Wisconsin,2
+67,Alabama,Notre Dame,8
+68,Alabama,Connecticut,0
+69,Alabama,SMU,2
+70,Alabama,Tulane,38
+71,Arizona,Arizona State,87
+72,Arizona,Arkansas,0
+73,Arizona,Auburn,3
+74,Arizona,Baylor,1
+75,Arizona,Boston College,1
+76,Arizona,BYU,25
+77,Arizona,California,36
+78,Arizona,Cincinnati,0
+79,Arizona,Clemson,0
+80,Arizona,Colorado,26
+81,Arizona,Duke,0
+82,Arizona,Florida,0
+83,Arizona,Florida State,0
+84,Arizona,Georgia,1
+85,Arizona,Georgia Tech,2
+86,Arizona,Houston,4
+87,Arizona,Illinois,4
+88,Arizona,Indiana,4
+89,Arizona,Iowa,13
+90,Arizona,Iowa State,6
+91,Arizona,Kansas,6
+92,Arizona,Kansas State,7
+93,Arizona,Kentucky,0
+94,Arizona,Louisville,0
+95,Arizona,LSU,3
+96,Arizona,Maryland,0
+97,Arizona,Miami,3
+98,Arizona,Michigan,2
+99,Arizona,Michigan State,3
+100,Arizona,Minnesota,1
+101,Arizona,Mississippi State,2
+102,Arizona,Missouri,3
+103,Arizona,NC State,1
+104,Arizona,Nebraska,3
+105,Arizona,North Carolina,1
+106,Arizona,Northwestern,2
+107,Arizona,Ohio State,4
+108,Arizona,Oklahoma,3
+109,Arizona,Oklahoma State,9
+110,Arizona,Ole Miss,0
+111,Arizona,Oregon,46
+112,Arizona,Oregon State,42
+113,Arizona,Penn State,1
+114,Arizona,Pittsburgh,1
+115,Arizona,Purdue,3
+116,Arizona,Rutgers,0
+117,Arizona,South Carolina,0
+118,Arizona,Stanford,32
+119,Arizona,Syracuse,2
+120,Arizona,TCU,2
+121,Arizona,Tennessee,0
+122,Arizona,Texas,1
+123,Arizona,Texas A&M,1
+124,Arizona,Texas Tech,33
+125,Arizona,UCF,0
+126,Arizona,UCLA,47
+127,Arizona,USC,45
+128,Arizona,Utah,48
+129,Arizona,Vanderbilt,0
+130,Arizona,Virginia,0
+131,Arizona,Virginia Tech,0
+132,Arizona,Wake Forest,0
+133,Arizona,Washington,38
+134,Arizona,Washington State,47
+135,Arizona,West Virginia,0
+136,Arizona,Wisconsin,2
+137,Arizona,Notre Dame,3
+138,Arizona,Connecticut,0
+139,Arizona,SMU,2
+140,Arizona,Tulane,0
+141,Arizona State,Arkansas,2
+142,Arizona State,Auburn,0
+143,Arizona State,Baylor,1
+144,Arizona State,Boston College,1
+145,Arizona State,BYU,28
+146,Arizona State,California,36
+147,Arizona State,Cincinnati,2
+148,Arizona State,Clemson,0
+149,Arizona State,Colorado,14
+150,Arizona State,Duke,1
+151,Arizona State,Florida,0
+152,Arizona State,Florida State,5
+153,Arizona State,Georgia,2
+154,Arizona State,Georgia Tech,0
+155,Arizona State,Houston,9
+156,Arizona State,Illinois,4
+157,Arizona State,Indiana,0
+158,Arizona State,Iowa,3
+159,Arizona State,Iowa State,0
+160,Arizona State,Kansas,0
+161,Arizona State,Kansas State,6
+162,Arizona State,Kentucky,0
+163,Arizona State,Louisville,3
+164,Arizona State,LSU,1
+165,Arizona State,Maryland,0
+166,Arizona State,Miami,2
+167,Arizona State,Michigan,1
+168,Arizona State,Michigan State,4
+169,Arizona State,Minnesota,1
+170,Arizona State,Mississippi State,0
+171,Arizona State,Missouri,7
+172,Arizona State,NC State,3
+173,Arizona State,Nebraska,8
+174,Arizona State,North Carolina,3
+175,Arizona State,Northwestern,4
+176,Arizona State,Ohio State,2
+177,Arizona State,Oklahoma,1
+178,Arizona State,Oklahoma State,5
+179,Arizona State,Ole Miss,0
+180,Arizona State,Oregon,39
+181,Arizona State,Oregon State,47
+182,Arizona State,Penn State,1
+183,Arizona State,Pittsburgh,1
+184,Arizona State,Purdue,1
+185,Arizona State,Rutgers,2
+186,Arizona State,South Carolina,0
+187,Arizona State,Stanford,34
+188,Arizona State,Syracuse,0
+189,Arizona State,TCU,2
+190,Arizona State,Tennessee,0
+191,Arizona State,Texas,1
+192,Arizona State,Texas A&M,1
+193,Arizona State,Texas Tech,4
+194,Arizona State,UCF,1
+195,Arizona State,UCLA,40
+196,Arizona State,USC,40
+197,Arizona State,Utah,34
+198,Arizona State,Vanderbilt,0
+199,Arizona State,Virginia,0
+200,Arizona State,Virginia Tech,0
+201,Arizona State,Wake Forest,1
+202,Arizona State,Washington,39
+203,Arizona State,Washington State,47
+204,Arizona State,West Virginia,2
+205,Arizona State,Wisconsin,5
+206,Arizona State,Notre Dame,4
+207,Arizona State,Connecticut,0
+208,Arizona State,SMU,1
+209,Arizona State,Tulane,0
+210,Arkansas,Auburn,33
+211,Arkansas,Baylor,70
+212,Arkansas,Boston College,0
+213,Arkansas,BYU,2
+214,Arkansas,California,1
+215,Arkansas,Cincinnati,1
+216,Arkansas,Clemson,0
+217,Arkansas,Colorado,0
+218,Arkansas,Duke,1
+219,Arkansas,Florida,13
+220,Arkansas,Florida State,0
+221,Arkansas,Georgia,16
+222,Arkansas,Georgia Tech,2
+223,Arkansas,Houston,18
+224,Arkansas,Illinois,0
+225,Arkansas,Indiana,0
+226,Arkansas,Iowa,1
+227,Arkansas,Iowa State,1
+228,Arkansas,Kansas,3
+229,Arkansas,Kansas State,6
+230,Arkansas,Kentucky,8
+231,Arkansas,Louisville,0
+232,Arkansas,LSU,68
+233,Arkansas,Maryland,0
+234,Arkansas,Miami,3
+235,Arkansas,Michigan,1
+236,Arkansas,Michigan State,0
+237,Arkansas,Minnesota,1
+238,Arkansas,Mississippi State,34
+239,Arkansas,Missouri,15
+240,Arkansas,NC State,0
+241,Arkansas,Nebraska,1
+242,Arkansas,North Carolina,2
+243,Arkansas,Northwestern,1
+244,Arkansas,Ohio State,1
+245,Arkansas,Oklahoma,13
+246,Arkansas,Oklahoma State,46
+247,Arkansas,Ole Miss,70
+248,Arkansas,Oregon,0
+249,Arkansas,Oregon State,0
+250,Arkansas,Penn State,1
+251,Arkansas,Pittsburgh,0
+252,Arkansas,Purdue,0
+253,Arkansas,Rutgers,2
+254,Arkansas,South Carolina,24
+255,Arkansas,Stanford,1
+256,Arkansas,Syracuse,0
+257,Arkansas,TCU,70
+258,Arkansas,Tennessee,19
+259,Arkansas,Texas,78
+260,Arkansas,Texas A&M,80
+261,Arkansas,Texas Tech,37
+262,Arkansas,UCF,1
+263,Arkansas,UCLA,2
+264,Arkansas,USC,5
+265,Arkansas,Utah,0
+266,Arkansas,Vanderbilt,10
+267,Arkansas,Virginia,0
+268,Arkansas,Virginia Tech,1
+269,Arkansas,Wake Forest,0
+270,Arkansas,Washington,0
+271,Arkansas,Washington State,0
+272,Arkansas,West Virginia,0
+273,Arkansas,Wisconsin,2
+274,Arkansas,Notre Dame,0
+275,Arkansas,Connecticut,0
+276,Arkansas,SMU,73
+277,Arkansas,Tulane,4
+278,Auburn,Baylor,4
+279,Auburn,Boston College,3
+280,Auburn,BYU,0
+281,Auburn,California,1
+282,Auburn,Cincinnati,2
+283,Auburn,Clemson,50
+284,Auburn,Colorado,1
+285,Auburn,Duke,5
+286,Auburn,Florida,85
+287,Auburn,Florida State,19
+288,Auburn,Georgia,120
+289,Auburn,Georgia Tech,86
+290,Auburn,Houston,7
+291,Auburn,Illinois,0
+292,Auburn,Indiana,1
+293,Auburn,Iowa,0
+294,Auburn,Iowa State,0
+295,Auburn,Kansas,2
+296,Auburn,Kansas State,4
+297,Auburn,Kentucky,34
+298,Auburn,Louisville,2
+299,Auburn,LSU,57
+300,Auburn,Maryland,4
+301,Auburn,Miami,11
+302,Auburn,Michigan,2
+303,Auburn,Michigan State,1
+304,Auburn,Minnesota,1
+305,Auburn,Mississippi State,97
+306,Auburn,Missouri,4
+307,Auburn,NC State,2
+308,Auburn,Nebraska,4
+309,Auburn,North Carolina,3
+310,Auburn,Northwestern,2
+311,Auburn,Ohio State,2
+312,Auburn,Oklahoma,2
+313,Auburn,Oklahoma State,0
+314,Auburn,Ole Miss,48
+315,Auburn,Oregon,2
+316,Auburn,Oregon State,1
+317,Auburn,Penn State,4
+318,Auburn,Pittsburgh,0
+319,Auburn,Purdue,1
+320,Auburn,Rutgers,1
+321,Auburn,South Carolina,14
+322,Auburn,Stanford,0
+323,Auburn,Syracuse,3
+324,Auburn,TCU,3
+325,Auburn,Tennessee,53
+326,Auburn,Texas,8
+327,Auburn,Texas A&M,14
+328,Auburn,Texas Tech,1
+329,Auburn,UCF,4
+330,Auburn,UCLA,0
+331,Auburn,USC,3
+332,Auburn,Utah,0
+333,Auburn,Vanderbilt,40
+334,Auburn,Virginia,3
+335,Auburn,Virginia Tech,5
+336,Auburn,Wake Forest,8
+337,Auburn,Washington,1
+338,Auburn,Washington State,2
+339,Auburn,West Virginia,2
+340,Auburn,Wisconsin,4
+341,Auburn,Notre Dame,0
+342,Auburn,Connecticut,0
+343,Auburn,SMU,3
+344,Auburn,Tulane,38
+345,Baylor,Boston College,3
+346,Baylor,BYU,4
+347,Baylor,California,3
+348,Baylor,Cincinnati,1
+349,Baylor,Clemson,1
+350,Baylor,Colorado,16
+351,Baylor,Duke,3
+352,Baylor,Florida,1
+353,Baylor,Florida State,3
+354,Baylor,Georgia,5
+355,Baylor,Georgia Tech,4
+356,Baylor,Houston,29
+357,Baylor,Illinois,2
+358,Baylor,Indiana,3
+359,Baylor,Iowa,0
+360,Baylor,Iowa State,22
+361,Baylor,Kansas,22
+362,Baylor,Kansas State,21
+363,Baylor,Kentucky,4
+364,Baylor,Louisville,1
+365,Baylor,LSU,11
+366,Baylor,Maryland,2
+367,Baylor,Miami,9
+368,Baylor,Michigan,2
+369,Baylor,Michigan State,2
+370,Baylor,Minnesota,1
+371,Baylor,Mississippi State,4
+372,Baylor,Missouri,14
+373,Baylor,NC State,2
+374,Baylor,Nebraska,12
+375,Baylor,North Carolina,1
+376,Baylor,Northwestern,0
+377,Baylor,Ohio State,2
+378,Baylor,Oklahoma,32
+379,Baylor,Oklahoma State,42
+380,Baylor,Ole Miss,2
+381,Baylor,Oregon,0
+382,Baylor,Oregon State,4
+383,Baylor,Penn State,1
+384,Baylor,Pittsburgh,4
+385,Baylor,Purdue,1
+386,Baylor,Rutgers,0
+387,Baylor,South Carolina,3
+388,Baylor,Stanford,0
+389,Baylor,Syracuse,2
+390,Baylor,TCU,113
+391,Baylor,Tennessee,1
+392,Baylor,Texas,112
+393,Baylor,Texas A&M,102
+394,Baylor,Texas Tech,82
+395,Baylor,UCF,2
+396,Baylor,UCLA,1
+397,Baylor,USC,5
+398,Baylor,Utah,1
+399,Baylor,Vanderbilt,3
+400,Baylor,Virginia,0
+401,Baylor,Virginia Tech,0
+402,Baylor,Wake Forest,6
+403,Baylor,Washington,5
+404,Baylor,Washington State,6
+405,Baylor,West Virginia,12
+406,Baylor,Wisconsin,0
+407,Baylor,Notre Dame,2
+408,Baylor,Connecticut,2
+409,Baylor,SMU,82
+410,Baylor,Tulane,6
+411,Boston College,BYU,3
+412,Boston College,California,1
+413,Boston College,Cincinnati,8
+414,Boston College,Clemson,32
+415,Boston College,Colorado,1
+416,Boston College,Duke,9
+417,Boston College,Florida,2
+418,Boston College,Florida State,21
+419,Boston College,Georgia,4
+420,Boston College,Georgia Tech,12
+421,Boston College,Houston,3
+422,Boston College,Illinois,0
+423,Boston College,Indiana,1
+424,Boston College,Iowa,1
+425,Boston College,Iowa State,1
+426,Boston College,Kansas,1
+427,Boston College,Kansas State,4
+428,Boston College,Kentucky,1
+429,Boston College,Louisville,16
+430,Boston College,LSU,2
+431,Boston College,Maryland,12
+432,Boston College,Miami,31
+433,Boston College,Michigan,4
+434,Boston College,Michigan State,6
+435,Boston College,Minnesota,0
+436,Boston College,Mississippi State,0
+437,Boston College,Missouri,1
+438,Boston College,NC State,19
+439,Boston College,Nebraska,0
+440,Boston College,North Carolina,8
+441,Boston College,Northwestern,5
+442,Boston College,Ohio State,3
+443,Boston College,Oklahoma,2
+444,Boston College,Oklahoma State,0
+445,Boston College,Ole Miss,4
+446,Boston College,Oregon,0
+447,Boston College,Oregon State,0
+448,Boston College,Penn State,24
+449,Boston College,Pittsburgh,33
+450,Boston College,Purdue,1
+451,Boston College,Rutgers,28
+452,Boston College,South Carolina,0
+453,Boston College,Stanford,4
+454,Boston College,Syracuse,57
+455,Boston College,TCU,2
+456,Boston College,Tennessee,10
+457,Boston College,Texas,3
+458,Boston College,Texas A&M,4
+459,Boston College,Texas Tech,3
+460,Boston College,UCF,2
+461,Boston College,UCLA,0
+462,Boston College,USC,5
+463,Boston College,Utah,0
+464,Boston College,Vanderbilt,3
+465,Boston College,Virginia,8
+466,Boston College,Virginia Tech,32
+467,Boston College,Wake Forest,29
+468,Boston College,Washington,0
+469,Boston College,Washington State,0
+470,Boston College,West Virginia,33
+471,Boston College,Wisconsin,0
+472,Boston College,Notre Dame,27
+473,Boston College,Connecticut,8
+474,Boston College,SMU,2
+475,Boston College,Tulane,14
+476,BYU,California,5
+477,BYU,Cincinnati,3
+478,BYU,Clemson,0
+479,BYU,Colorado,12
+480,BYU,Duke,0
+481,BYU,Florida,0
+482,BYU,Florida State,4
+483,BYU,Georgia,1
+484,BYU,Georgia Tech,4
+485,BYU,Houston,3
+486,BYU,Illinois,0
+487,BYU,Indiana,1
+488,BYU,Iowa,1
+489,BYU,Iowa State,5
+490,BYU,Kansas,2
+491,BYU,Kansas State,8
+492,BYU,Kentucky,0
+493,BYU,Louisville,1
+494,BYU,LSU,1
+495,BYU,Maryland,0
+496,BYU,Miami,2
+497,BYU,Michigan,2
+498,BYU,Michigan State,1
+499,BYU,Minnesota,0
+500,BYU,Mississippi State,4
+501,BYU,Missouri,2
+502,BYU,NC State,0
+503,BYU,Nebraska,1
+504,BYU,North Carolina,0
+505,BYU,Northwestern,0
+506,BYU,Ohio State,3
+507,BYU,Oklahoma,3
+508,BYU,Oklahoma State,3
+509,BYU,Ole Miss,1
+510,BYU,Oregon,7
+511,BYU,Oregon State,11
+512,BYU,Penn State,3
+513,BYU,Pittsburgh,2
+514,BYU,Purdue,0
+515,BYU,Rutgers,0
+516,BYU,South Carolina,0
+517,BYU,Stanford,3
+518,BYU,Syracuse,2
+519,BYU,TCU,12
+520,BYU,Tennessee,1
+521,BYU,Texas,6
+522,BYU,Texas A&M,3
+523,BYU,Texas Tech,2
+524,BYU,UCF,3
+525,BYU,UCLA,12
+526,BYU,USC,4
+527,BYU,Utah,95
+528,BYU,Vanderbilt,0
+529,BYU,Virginia,6
+530,BYU,Virginia Tech,0
+531,BYU,Wake Forest,0
+532,BYU,Washington,11
+533,BYU,Washington State,5
+534,BYU,West Virginia,2
+535,BYU,Wisconsin,4
+536,BYU,Notre Dame,9
+537,BYU,Connecticut,2
+538,BYU,SMU,4
+539,BYU,Tulane,3
+540,California,Cincinnati,0
+541,California,Clemson,1
+542,California,Colorado,12
+543,California,Duke,2
+544,California,Florida,2
+545,California,Florida State,0
+546,California,Georgia,2
+547,California,Georgia Tech,7
+548,California,Houston,2
+549,California,Illinois,11
+550,California,Indiana,2
+551,California,Iowa,4
+552,California,Iowa State,1
+553,California,Kansas,5
+554,California,Kansas State,1
+555,California,Kentucky,0
+556,California,Louisville,0
+557,California,LSU,0
+558,California,Maryland,2
+559,California,Miami,4
+560,California,Michigan,8
+561,California,Michigan State,4
+562,California,Minnesota,6
+563,California,Mississippi State,0
+564,California,Missouri,7
+565,California,NC State,0
+566,California,Nebraska,3
+567,California,North Carolina,2
+568,California,Northwestern,3
+569,California,Ohio State,8
+570,California,Oklahoma,4
+571,California,Oklahoma State,0
+572,California,Ole Miss,2
+573,California,Oregon,82
+574,California,Oregon State,75
+575,California,Penn State,4
+576,California,Pittsburgh,5
+577,California,Purdue,2
+578,California,Rutgers,2
+579,California,South Carolina,0
+580,California,Stanford,103
+581,California,Syracuse,2
+582,California,TCU,2
+583,California,Tennessee,4
+584,California,Texas,7
+585,California,Texas A&M,3
+586,California,Texas Tech,2
+587,California,UCF,0
+588,California,UCLA,94
+589,California,USC,108
+590,California,Utah,13
+591,California,Vanderbilt,0
+592,California,Virginia,0
+593,California,Virginia Tech,1
+594,California,Wake Forest,0
+595,California,Washington,99
+596,California,Washington State,84
+597,California,West Virginia,3
+598,California,Wisconsin,6
+599,California,Notre Dame,5
+600,California,Connecticut,0
+601,California,SMU,1
+602,California,Tulane,1
+603,Cincinnati,Clemson,0
+604,Cincinnati,Colorado,1
+605,Cincinnati,Duke,1
+606,Cincinnati,Florida,2
+607,Cincinnati,Florida State,6
+608,Cincinnati,Georgia,3
+609,Cincinnati,Georgia Tech,0
+610,Cincinnati,Houston,29
+611,Cincinnati,Illinois,2
+612,Cincinnati,Indiana,13
+613,Cincinnati,Iowa,1
+614,Cincinnati,Iowa State,1
+615,Cincinnati,Kansas,3
+616,Cincinnati,Kansas State,6
+617,Cincinnati,Kentucky,24
+618,Cincinnati,Louisville,46
+619,Cincinnati,LSU,0
+620,Cincinnati,Maryland,2
+621,Cincinnati,Miami,13
+622,Cincinnati,Michigan,1
+623,Cincinnati,Michigan State,2
+624,Cincinnati,Minnesota,0
+625,Cincinnati,Mississippi State,2
+626,Cincinnati,Missouri,0
+627,Cincinnati,NC State,2
+628,Cincinnati,Nebraska,1
+629,Cincinnati,North Carolina,3
+630,Cincinnati,Northwestern,2
+631,Cincinnati,Ohio State,8
+632,Cincinnati,Oklahoma,3
+633,Cincinnati,Oklahoma State,4
+634,Cincinnati,Ole Miss,0
+635,Cincinnati,Oregon,0
+636,Cincinnati,Oregon State,2
+637,Cincinnati,Penn State,9
+638,Cincinnati,Pittsburgh,13
+639,Cincinnati,Purdue,3
+640,Cincinnati,Rutgers,19
+641,Cincinnati,South Carolina,2
+642,Cincinnati,Stanford,0
+643,Cincinnati,Syracuse,13
+644,Cincinnati,TCU,3
+645,Cincinnati,Tennessee,6
+646,Cincinnati,Texas,0
+647,Cincinnati,Texas A&M,1
+648,Cincinnati,Texas Tech,1
+649,Cincinnati,UCF,9
+650,Cincinnati,UCLA,2
+651,Cincinnati,USC,0
+652,Cincinnati,Utah,0
+653,Cincinnati,Vanderbilt,6
+654,Cincinnati,Virginia,0
+655,Cincinnati,Virginia Tech,12
+656,Cincinnati,Wake Forest,0
+657,Cincinnati,Washington,1
+658,Cincinnati,Washington State,0
+659,Cincinnati,West Virginia,21
+660,Cincinnati,Wisconsin,4
+661,Cincinnati,Notre Dame,2
+662,Cincinnati,Connecticut,16
+663,Cincinnati,SMU,7
+664,Cincinnati,Tulane,19
+665,Clemson,Colorado,2
+666,Clemson,Duke,55
+667,Clemson,Florida,13
+668,Clemson,Florida State,36
+669,Clemson,Georgia,60
+670,Clemson,Georgia Tech,87
+671,Clemson,Houston,0
+672,Clemson,Illinois,1
+673,Clemson,Indiana,0
+674,Clemson,Iowa,0
+675,Clemson,Iowa State,1
+676,Clemson,Kansas,0
+677,Clemson,Kansas State,0
+678,Clemson,Kentucky,14
+679,Clemson,Louisville,8
+680,Clemson,LSU,4
+681,Clemson,Maryland,62
+682,Clemson,Miami,14
+683,Clemson,Michigan,0
+684,Clemson,Michigan State,0
+685,Clemson,Minnesota,1
+686,Clemson,Mississippi State,3
+687,Clemson,Missouri,4
+688,Clemson,NC State,90
+689,Clemson,Nebraska,2
+690,Clemson,North Carolina,58
+691,Clemson,Northwestern,0
+692,Clemson,Ohio State,5
+693,Clemson,Oklahoma,5
+694,Clemson,Oklahoma State,0
+695,Clemson,Ole Miss,2
+696,Clemson,Oregon,0
+697,Clemson,Oregon State,0
+698,Clemson,Penn State,1
+699,Clemson,Pittsburgh,5
+700,Clemson,Purdue,0
+701,Clemson,Rutgers,0
+702,Clemson,South Carolina,115
+703,Clemson,Stanford,1
+704,Clemson,Syracuse,12
+705,Clemson,TCU,4
+706,Clemson,Tennessee,19
+707,Clemson,Texas,0
+708,Clemson,Texas A&M,6
+709,Clemson,Texas Tech,1
+710,Clemson,UCF,1
+711,Clemson,UCLA,0
+712,Clemson,USC,1
+713,Clemson,Utah,0
+714,Clemson,Vanderbilt,4
+715,Clemson,Virginia,49
+716,Clemson,Virginia Tech,34
+717,Clemson,Wake Forest,89
+718,Clemson,Washington,0
+719,Clemson,Washington State,0
+720,Clemson,West Virginia,2
+721,Clemson,Wisconsin,0
+722,Clemson,Notre Dame,8
+723,Clemson,Connecticut,1
+724,Clemson,SMU,0
+725,Clemson,Tulane,10
+726,Colorado,Duke,0
+727,Colorado,Florida,0
+728,Colorado,Florida State,3
+729,Colorado,Georgia,2
+730,Colorado,Georgia Tech,0
+731,Colorado,Houston,1
+732,Colorado,Illinois,2
+733,Colorado,Indiana,4
+734,Colorado,Iowa,2
+735,Colorado,Iowa State,65
+736,Colorado,Kansas,70
+737,Colorado,Kansas State,66
+738,Colorado,Kentucky,0
+739,Colorado,Louisville,0
+740,Colorado,LSU,6
+741,Colorado,Maryland,0
+742,Colorado,Miami,8
+743,Colorado,Michigan,5
+744,Colorado,Michigan State,3
+745,Colorado,Minnesota,5
+746,Colorado,Mississippi State,0
+747,Colorado,Missouri,75
+748,Colorado,NC State,0
+749,Colorado,Nebraska,71
+750,Colorado,North Carolina,0
+751,Colorado,Northwestern,2
+752,Colorado,Ohio State,5
+753,Colorado,Oklahoma,59
+754,Colorado,Oklahoma State,47
+755,Colorado,Ole Miss,0
+756,Colorado,Oregon,25
+757,Colorado,Oregon State,14
+758,Colorado,Penn State,2
+759,Colorado,Pittsburgh,0
+760,Colorado,Purdue,0
+761,Colorado,Rutgers,0
+762,Colorado,South Carolina,0
+763,Colorado,Stanford,13
+764,Colorado,Syracuse,1
+765,Colorado,TCU,2
+766,Colorado,Tennessee,1
+767,Colorado,Texas,19
+768,Colorado,Texas A&M,10
+769,Colorado,Texas Tech,10
+770,Colorado,UCF,0
+771,Colorado,UCLA,19
+772,Colorado,USC,17
+773,Colorado,Utah,70
+774,Colorado,Vanderbilt,0
+775,Colorado,Virginia,0
+776,Colorado,Virginia Tech,0
+777,Colorado,Wake Forest,0
+778,Colorado,Washington,21
+779,Colorado,Washington State,14
+780,Colorado,West Virginia,2
+781,Colorado,Wisconsin,6
+782,Colorado,Notre Dame,5
+783,Colorado,Connecticut,0
+784,Colorado,SMU,0
+785,Colorado,Tulane,1
+786,Duke,Florida,5
+787,Duke,Florida State,22
+788,Duke,Georgia,1
+789,Duke,Georgia Tech,90
+790,Duke,Houston,0
+791,Duke,Illinois,2
+792,Duke,Indiana,4
+793,Duke,Iowa,0
+794,Duke,Iowa State,0
+795,Duke,Kansas,4
+796,Duke,Kansas State,0
+797,Duke,Kentucky,4
+798,Duke,Louisville,4
+799,Duke,LSU,2
+800,Duke,Maryland,50
+801,Duke,Miami,20
+802,Duke,Michigan,6
+803,Duke,Michigan State,0
+804,Duke,Minnesota,0
+805,Duke,Mississippi State,0
+806,Duke,Missouri,1
+807,Duke,NC State,84
+808,Duke,Nebraska,1
+809,Duke,North Carolina,103
+810,Duke,Northwestern,23
+811,Duke,Ohio State,4
+812,Duke,Oklahoma,1
+813,Duke,Oklahoma State,0
+814,Duke,Ole Miss,0
+815,Duke,Oregon,0
+816,Duke,Oregon State,1
+817,Duke,Penn State,0
+818,Duke,Pittsburgh,27
+819,Duke,Purdue,4
+820,Duke,Rutgers,4
+821,Duke,South Carolina,44
+822,Duke,Stanford,4
+823,Duke,Syracuse,5
+824,Duke,TCU,0
+825,Duke,Tennessee,28
+826,Duke,Texas,0
+827,Duke,Texas A&M,1
+828,Duke,Texas Tech,1
+829,Duke,UCF,1
+830,Duke,UCLA,1
+831,Duke,USC,3
+832,Duke,Utah,0
+833,Duke,Vanderbilt,11
+834,Duke,Virginia,72
+835,Duke,Virginia Tech,30
+836,Duke,Wake Forest,100
+837,Duke,Washington,2
+838,Duke,Washington State,0
+839,Duke,West Virginia,4
+840,Duke,Wisconsin,1
+841,Duke,Notre Dame,8
+842,Duke,Connecticut,3
+843,Duke,SMU,2
+844,Duke,Tulane,5
+845,Florida,Florida State,68
+846,Florida,Georgia,102
+847,Florida,Georgia Tech,39
+848,Florida,Houston,4
+849,Florida,Illinois,2
+850,Florida,Indiana,1
+851,Florida,Iowa,4
+852,Florida,Iowa State,0
+853,Florida,Kansas,0
+854,Florida,Kansas State,2
+855,Florida,Kentucky,74
+856,Florida,Louisville,3
+857,Florida,LSU,70
+858,Florida,Maryland,18
+859,Florida,Miami,56
+860,Florida,Michigan,5
+861,Florida,Michigan State,1
+862,Florida,Minnesota,0
+863,Florida,Mississippi State,55
+864,Florida,Missouri,13
+865,Florida,NC State,14
+866,Florida,Nebraska,2
+867,Florida,North Carolina,10
+868,Florida,Northwestern,2
+869,Florida,Ohio State,2
+870,Florida,Oklahoma,2
+871,Florida,Oklahoma State,1
+872,Florida,Ole Miss,25
+873,Florida,Oregon,1
+874,Florida,Oregon State,1
+875,Florida,Penn State,3
+876,Florida,Pittsburgh,1
+877,Florida,Purdue,0
+878,Florida,Rutgers,2
+879,Florida,South Carolina,44
+880,Florida,Stanford,0
+881,Florida,Syracuse,4
+882,Florida,TCU,0
+883,Florida,Tennessee,53
+884,Florida,Texas,3
+885,Florida,Texas A&M,6
+886,Florida,Texas Tech,0
+887,Florida,UCF,3
+888,Florida,UCLA,5
+889,Florida,USC,2
+890,Florida,Utah,3
+891,Florida,Vanderbilt,57
+892,Florida,Virginia,2
+893,Florida,Virginia Tech,2
+894,Florida,Wake Forest,4
+895,Florida,Washington,1
+896,Florida,Washington State,0
+897,Florida,West Virginia,2
+898,Florida,Wisconsin,0
+899,Florida,Notre Dame,1
+900,Florida,Connecticut,0
+901,Florida,SMU,4
+902,Florida,Tulane,21
+903,Florida State,Georgia,12
+904,Florida State,Georgia Tech,29
+905,Florida State,Houston,17
+906,Florida State,Illinois,0
+907,Florida State,Indiana,1
+908,Florida State,Iowa,0
+909,Florida State,Iowa State,2
+910,Florida State,Kansas,7
+911,Florida State,Kansas State,3
+912,Florida State,Kentucky,6
+913,Florida State,Louisville,22
+914,Florida State,LSU,11
+915,Florida State,Maryland,24
+916,Florida State,Miami,68
+917,Florida State,Michigan,3
+918,Florida State,Michigan State,2
+919,Florida State,Minnesota,0
+920,Florida State,Mississippi State,9
+921,Florida State,Missouri,0
+922,Florida State,NC State,43
+923,Florida State,Nebraska,8
+924,Florida State,North Carolina,21
+925,Florida State,Northwestern,0
+926,Florida State,Ohio State,3
+927,Florida State,Oklahoma,8
+928,Florida State,Oklahoma State,5
+929,Florida State,Ole Miss,2
+930,Florida State,Oregon,1
+931,Florida State,Oregon State,0
+932,Florida State,Penn State,3
+933,Florida State,Pittsburgh,11
+934,Florida State,Purdue,0
+935,Florida State,Rutgers,0
+936,Florida State,South Carolina,19
+937,Florida State,Stanford,0
+938,Florida State,Syracuse,16
+939,Florida State,TCU,3
+940,Florida State,Tennessee,2
+941,Florida State,Texas,0
+942,Florida State,Texas A&M,4
+943,Florida State,Texas Tech,5
+944,Florida State,UCF,1
+945,Florida State,UCLA,1
+946,Florida State,USC,2
+947,Florida State,Utah,0
+948,Florida State,Vanderbilt,0
+949,Florida State,Virginia,19
+950,Florida State,Virginia Tech,38
+951,Florida State,Wake Forest,41
+952,Florida State,Washington,0
+953,Florida State,Washington State,0
+954,Florida State,West Virginia,3
+955,Florida State,Wisconsin,1
+956,Florida State,Notre Dame,11
+957,Florida State,Connecticut,0
+958,Florida State,SMU,0
+959,Florida State,Tulane,10
+960,Georgia,Georgia Tech,112
+961,Georgia,Houston,4
+962,Georgia,Illinois,0
+963,Georgia,Indiana,0
+964,Georgia,Iowa,0
+965,Georgia,Iowa State,0
+966,Georgia,Kansas,0
+967,Georgia,Kansas State,0
+968,Georgia,Kentucky,77
+969,Georgia,Louisville,1
+970,Georgia,LSU,33
+971,Georgia,Maryland,6
+972,Georgia,Miami,12
+973,Georgia,Michigan,3
+974,Georgia,Michigan State,3
+975,Georgia,Minnesota,0
+976,Georgia,Mississippi State,26
+977,Georgia,Missouri,13
+978,Georgia,NC State,8
+979,Georgia,Nebraska,3
+980,Georgia,North Carolina,24
+981,Georgia,Northwestern,0
+982,Georgia,Ohio State,2
+983,Georgia,Oklahoma,1
+984,Georgia,Oklahoma State,4
+985,Georgia,Ole Miss,47
+986,Georgia,Oregon,2
+987,Georgia,Oregon State,3
+988,Georgia,Penn State,2
+989,Georgia,Pittsburgh,4
+990,Georgia,Purdue,2
+991,Georgia,Rutgers,0
+992,Georgia,South Carolina,73
+993,Georgia,Stanford,1
+994,Georgia,Syracuse,1
+995,Georgia,TCU,5
+996,Georgia,Tennessee,52
+997,Georgia,Texas,5
+998,Georgia,Texas A&M,6
+999,Georgia,Texas Tech,3
+1000,Georgia,UCF,2
+1001,Georgia,UCLA,2
+1002,Georgia,USC,3
+1003,Georgia,Utah,0
+1004,Georgia,Vanderbilt,79
+1005,Georgia,Virginia,18
+1006,Georgia,Virginia Tech,3
+1007,Georgia,Wake Forest,3
+1008,Georgia,Washington,0
+1009,Georgia,Washington State,0
+1010,Georgia,West Virginia,1
+1011,Georgia,Wisconsin,2
+1012,Georgia,Notre Dame,3
+1013,Georgia,Connecticut,0
+1014,Georgia,SMU,1
+1015,Georgia,Tulane,25
+1016,Georgia Tech,Houston,0
+1017,Georgia Tech,Illinois,0
+1018,Georgia Tech,Indiana,0
+1019,Georgia Tech,Iowa,1
+1020,Georgia Tech,Iowa State,1
+1021,Georgia Tech,Kansas,3
+1022,Georgia Tech,Kansas State,0
+1023,Georgia Tech,Kentucky,20
+1024,Georgia Tech,Louisville,3
+1025,Georgia Tech,LSU,19
+1026,Georgia Tech,Maryland,21
+1027,Georgia Tech,Miami,28
+1028,Georgia Tech,Michigan,1
+1029,Georgia Tech,Michigan State,3
+1030,Georgia Tech,Minnesota,1
+1031,Georgia Tech,Mississippi State,5
+1032,Georgia Tech,Missouri,2
+1033,Georgia Tech,NC State,31
+1034,Georgia Tech,Nebraska,1
+1035,Georgia Tech,North Carolina,58
+1036,Georgia Tech,Northwestern,0
+1037,Georgia Tech,Ohio State,0
+1038,Georgia Tech,Oklahoma,0
+1039,Georgia Tech,Oklahoma State,0
+1040,Georgia Tech,Ole Miss,6
+1041,Georgia Tech,Oregon,0
+1042,Georgia Tech,Oregon State,0
+1043,Georgia Tech,Penn State,7
+1044,Georgia Tech,Pittsburgh,17
+1045,Georgia Tech,Purdue,1
+1046,Georgia Tech,Rutgers,1
+1047,Georgia Tech,South Carolina,20
+1048,Georgia Tech,Stanford,2
+1049,Georgia Tech,Syracuse,5
+1050,Georgia Tech,TCU,2
+1051,Georgia Tech,Tennessee,44
+1052,Georgia Tech,Texas,1
+1053,Georgia Tech,Texas A&M,2
+1054,Georgia Tech,Texas Tech,2
+1055,Georgia Tech,UCF,6
+1056,Georgia Tech,UCLA,0
+1057,Georgia Tech,USC,4
+1058,Georgia Tech,Utah,2
+1059,Georgia Tech,Vanderbilt,37
+1060,Georgia Tech,Virginia,45
+1061,Georgia Tech,Virginia Tech,19
+1062,Georgia Tech,Wake Forest,32
+1063,Georgia Tech,Washington,0
+1064,Georgia Tech,Washington State,0
+1065,Georgia Tech,West Virginia,3
+1066,Georgia Tech,Wisconsin,0
+1067,Georgia Tech,Notre Dame,37
+1068,Georgia Tech,Connecticut,3
+1069,Georgia Tech,SMU,11
+1070,Georgia Tech,Tulane,50
+1071,Houston,Illinois,2
+1072,Houston,Indiana,0
+1073,Houston,Iowa,0
+1074,Houston,Iowa State,0
+1075,Houston,Kansas,4
+1076,Houston,Kansas State,1
+1077,Houston,Kentucky,2
+1078,Houston,Louisville,17
+1079,Houston,LSU,3
+1080,Houston,Maryland,1
+1081,Houston,Miami,18
+1082,Houston,Michigan,3
+1083,Houston,Michigan State,1
+1084,Houston,Minnesota,2
+1085,Houston,Mississippi State,16
+1086,Houston,Missouri,2
+1087,Houston,NC State,3
+1088,Houston,Nebraska,1
+1089,Houston,North Carolina,2
+1090,Houston,Northwestern,0
+1091,Houston,Ohio State,1
+1092,Houston,Oklahoma,4
+1093,Houston,Oklahoma State,21
+1094,Houston,Ole Miss,18
+1095,Houston,Oregon,3
+1096,Houston,Oregon State,3
+1097,Houston,Penn State,3
+1098,Houston,Pittsburgh,3
+1099,Houston,Purdue,0
+1100,Houston,Rutgers,1
+1101,Houston,South Carolina,3
+1102,Houston,Stanford,0
+1103,Houston,Syracuse,2
+1104,Houston,TCU,26
+1105,Houston,Tennessee,3
+1106,Houston,Texas,26
+1107,Houston,Texas A&M,34
+1108,Houston,Texas Tech,35
+1109,Houston,UCF,11
+1110,Houston,UCLA,7
+1111,Houston,USC,3
+1112,Houston,Utah,4
+1113,Houston,Vanderbilt,2
+1114,Houston,Virginia,0
+1115,Houston,Virginia Tech,5
+1116,Houston,Wake Forest,2
+1117,Houston,Washington,2
+1118,Houston,Washington State,4
+1119,Houston,West Virginia,1
+1120,Houston,Wisconsin,0
+1121,Houston,Notre Dame,1
+1122,Houston,Connecticut,4
+1123,Houston,SMU,37
+1124,Houston,Tulane,27
+1125,Illinois,Indiana,73
+1126,Illinois,Iowa,79
+1127,Illinois,Iowa State,6
+1128,Illinois,Kansas,6
+1129,Illinois,Kansas State,1
+1130,Illinois,Kentucky,2
+1131,Illinois,Louisville,5
+1132,Illinois,LSU,1
+1133,Illinois,Maryland,3
+1134,Illinois,Miami,0
+1135,Illinois,Michigan,97
+1136,Illinois,Michigan State,48
+1137,Illinois,Minnesota,76
+1138,Illinois,Mississippi State,3
+1139,Illinois,Missouri,24
+1140,Illinois,NC State,0
+1141,Illinois,Nebraska,21
+1142,Illinois,North Carolina,4
+1143,Illinois,Northwestern,117
+1144,Illinois,Ohio State,103
+1145,Illinois,Oklahoma,1
+1146,Illinois,Oklahoma State,0
+1147,Illinois,Ole Miss,0
+1148,Illinois,Oregon,3
+1149,Illinois,Oregon State,1
+1150,Illinois,Penn State,27
+1151,Illinois,Pittsburgh,8
+1152,Illinois,Purdue,98
+1153,Illinois,Rutgers,8
+1154,Illinois,South Carolina,0
+1155,Illinois,Stanford,10
+1156,Illinois,Syracuse,12
+1157,Illinois,TCU,0
+1158,Illinois,Tennessee,0
+1159,Illinois,Texas,0
+1160,Illinois,Texas A&M,2
+1161,Illinois,Texas Tech,0
+1162,Illinois,UCF,0
+1163,Illinois,UCLA,12
+1164,Illinois,USC,13
+1165,Illinois,Utah,1
+1166,Illinois,Vanderbilt,0
+1167,Illinois,Virginia,4
+1168,Illinois,Virginia Tech,0
+1169,Illinois,Wake Forest,0
+1170,Illinois,Washington,11
+1171,Illinois,Washington State,7
+1172,Illinois,West Virginia,2
+1173,Illinois,Wisconsin,90
+1174,Illinois,Notre Dame,12
+1175,Illinois,Connecticut,1
+1176,Illinois,SMU,2
+1177,Illinois,Tulane,1
+1178,Indiana,Iowa,78
+1179,Indiana,Iowa State,0
+1180,Indiana,Kansas,2
+1181,Indiana,Kansas State,5
+1182,Indiana,Kentucky,35
+1183,Indiana,Louisville,3
+1184,Indiana,LSU,3
+1185,Indiana,Maryland,12
+1186,Indiana,Miami,2
+1187,Indiana,Michigan,72
+1188,Indiana,Michigan State,70
+1189,Indiana,Minnesota,69
+1190,Indiana,Mississippi State,3
+1191,Indiana,Missouri,12
+1192,Indiana,NC State,4
+1193,Indiana,Nebraska,22
+1194,Indiana,North Carolina,2
+1195,Indiana,Northwestern,83
+1196,Indiana,Ohio State,97
+1197,Indiana,Oklahoma,1
+1198,Indiana,Oklahoma State,2
+1199,Indiana,Ole Miss,1
+1200,Indiana,Oregon,3
+1201,Indiana,Oregon State,3
+1202,Indiana,Penn State,27
+1203,Indiana,Pittsburgh,9
+1204,Indiana,Purdue,123
+1205,Indiana,Rutgers,10
+1206,Indiana,South Carolina,1
+1207,Indiana,Stanford,0
+1208,Indiana,Syracuse,7
+1209,Indiana,TCU,4
+1210,Indiana,Tennessee,2
+1211,Indiana,Texas,3
+1212,Indiana,Texas A&M,0
+1213,Indiana,Texas Tech,0
+1214,Indiana,UCF,0
+1215,Indiana,UCLA,0
+1216,Indiana,USC,4
+1217,Indiana,Utah,4
+1218,Indiana,Vanderbilt,2
+1219,Indiana,Virginia,4
+1220,Indiana,Virginia Tech,1
+1221,Indiana,Wake Forest,2
+1222,Indiana,Washington,3
+1223,Indiana,Washington State,3
+1224,Indiana,West Virginia,6
+1225,Indiana,Wisconsin,63
+1226,Indiana,Notre Dame,28
+1227,Indiana,Connecticut,3
+1228,Indiana,SMU,1
+1229,Indiana,Tulane,0
+1230,Iowa,Iowa State,68
+1231,Iowa,Kansas,3
+1232,Iowa,Kansas State,6
+1233,Iowa,Kentucky,2
+1234,Iowa,Louisville,0
+1235,Iowa,LSU,2
+1236,Iowa,Maryland,4
+1237,Iowa,Miami,4
+1238,Iowa,Michigan,64
+1239,Iowa,Michigan State,49
+1240,Iowa,Minnesota,116
+1241,Iowa,Mississippi State,1
+1242,Iowa,Missouri,8
+1243,Iowa,NC State,3
+1244,Iowa,Nebraska,45
+1245,Iowa,North Carolina,0
+1246,Iowa,Northwestern,85
+1247,Iowa,Ohio State,66
+1248,Iowa,Oklahoma,2
+1249,Iowa,Oklahoma State,2
+1250,Iowa,Ole Miss,0
+1251,Iowa,Oregon,3
+1252,Iowa,Oregon State,12
+1253,Iowa,Penn State,32
+1254,Iowa,Pittsburgh,7
+1255,Iowa,Purdue,94
+1256,Iowa,Rutgers,4
+1257,Iowa,South Carolina,1
+1258,Iowa,Stanford,1
+1259,Iowa,Syracuse,4
+1260,Iowa,TCU,3
+1261,Iowa,Tennessee,4
+1262,Iowa,Texas,2
+1263,Iowa,Texas A&M,1
+1264,Iowa,Texas Tech,2
+1265,Iowa,UCF,0
+1266,Iowa,UCLA,9
+1267,Iowa,USC,10
+1268,Iowa,Utah,1
+1269,Iowa,Vanderbilt,0
+1270,Iowa,Virginia,0
+1271,Iowa,Virginia Tech,0
+1272,Iowa,Wake Forest,0
+1273,Iowa,Washington,6
+1274,Iowa,Washington State,5
+1275,Iowa,West Virginia,0
+1276,Iowa,Wisconsin,97
+1277,Iowa,Notre Dame,24
+1278,Iowa,Connecticut,0
+1279,Iowa,SMU,0
+1280,Iowa,Tulane,0
+1281,Iowa State,Kansas,102
+1282,Iowa State,Kansas State,107
+1283,Iowa State,Kentucky,0
+1284,Iowa State,Louisville,0
+1285,Iowa State,LSU,1
+1286,Iowa State,Maryland,0
+1287,Iowa State,Miami,0
+1288,Iowa State,Michigan,0
+1289,Iowa State,Michigan State,2
+1290,Iowa State,Minnesota,26
+1291,Iowa State,Mississippi State,0
+1292,Iowa State,Missouri,103
+1293,Iowa State,NC State,1
+1294,Iowa State,Nebraska,102
+1295,Iowa State,North Carolina,0
+1296,Iowa State,Northwestern,8
+1297,Iowa State,Ohio State,0
+1298,Iowa State,Oklahoma,89
+1299,Iowa State,Oklahoma State,58
+1300,Iowa State,Ole Miss,0
+1301,Iowa State,Oregon,1
+1302,Iowa State,Oregon State,1
+1303,Iowa State,Penn State,0
+1304,Iowa State,Pittsburgh,1
+1305,Iowa State,Purdue,1
+1306,Iowa State,Rutgers,1
+1307,Iowa State,South Carolina,1
+1308,Iowa State,Stanford,0
+1309,Iowa State,Syracuse,2
+1310,Iowa State,TCU,15
+1311,Iowa State,Tennessee,1
+1312,Iowa State,Texas,21
+1313,Iowa State,Texas A&M,11
+1314,Iowa State,Texas Tech,21
+1315,Iowa State,UCF,0
+1316,Iowa State,UCLA,2
+1317,Iowa State,USC,0
+1318,Iowa State,Utah,5
+1319,Iowa State,Vanderbilt,2
+1320,Iowa State,Virginia,0
+1321,Iowa State,Virginia Tech,0
+1322,Iowa State,Wake Forest,0
+1323,Iowa State,Washington,1
+1324,Iowa State,Washington State,1
+1325,Iowa State,West Virginia,11
+1326,Iowa State,Wisconsin,7
+1327,Iowa State,Notre Dame,1
+1328,Iowa State,Connecticut,2
+1329,Iowa State,SMU,0
+1330,Iowa State,Tulane,4
+1331,Kansas,Kansas State,121
+1332,Kansas,Kentucky,4
+1333,Kansas,Louisville,3
+1334,Kansas,LSU,0
+1335,Kansas,Maryland,0
+1336,Kansas,Miami,4
+1337,Kansas,Michigan,3
+1338,Kansas,Michigan State,6
+1339,Kansas,Minnesota,7
+1340,Kansas,Mississippi State,1
+1341,Kansas,Missouri,110
+1342,Kansas,NC State,2
+1343,Kansas,Nebraska,109
+1344,Kansas,North Carolina,2
+1345,Kansas,Northwestern,2
+1346,Kansas,Ohio State,0
+1347,Kansas,Oklahoma,114
+1348,Kansas,Oklahoma State,74
+1349,Kansas,Ole Miss,0
+1350,Kansas,Oregon,2
+1351,Kansas,Oregon State,6
+1352,Kansas,Penn State,1
+1353,Kansas,Pittsburgh,3
+1354,Kansas,Purdue,0
+1355,Kansas,Rutgers,2
+1356,Kansas,South Carolina,0
+1357,Kansas,Stanford,1
+1358,Kansas,Syracuse,8
+1359,Kansas,TCU,39
+1360,Kansas,Tennessee,2
+1361,Kansas,Texas,22
+1362,Kansas,Texas A&M,11
+1363,Kansas,Texas Tech,25
+1364,Kansas,UCF,1
+1365,Kansas,UCLA,7
+1366,Kansas,USC,1
+1367,Kansas,Utah,4
+1368,Kansas,Vanderbilt,2
+1369,Kansas,Virginia,2
+1370,Kansas,Virginia Tech,1
+1371,Kansas,Wake Forest,0
+1372,Kansas,Washington,1
+1373,Kansas,Washington State,9
+1374,Kansas,West Virginia,12
+1375,Kansas,Wisconsin,6
+1376,Kansas,Notre Dame,6
+1377,Kansas,Connecticut,0
+1378,Kansas,SMU,6
+1379,Kansas,Tulane,1
+1380,Kansas State,Kentucky,4
+1381,Kansas State,Louisville,2
+1382,Kansas State,LSU,2
+1383,Kansas State,Maryland,0
+1384,Kansas State,Miami,2
+1385,Kansas State,Michigan,1
+1386,Kansas State,Michigan State,6
+1387,Kansas State,Minnesota,3
+1388,Kansas State,Mississippi State,4
+1389,Kansas State,Missouri,99
+1390,Kansas State,NC State,1
+1391,Kansas State,Nebraska,95
+1392,Kansas State,North Carolina,0
+1393,Kansas State,Northwestern,2
+1394,Kansas State,Ohio State,1
+1395,Kansas State,Oklahoma,102
+1396,Kansas State,Oklahoma State,67
+1397,Kansas State,Ole Miss,0
+1398,Kansas State,Oregon,1
+1399,Kansas State,Oregon State,1
+1400,Kansas State,Penn State,2
+1401,Kansas State,Pittsburgh,0
+1402,Kansas State,Purdue,3
+1403,Kansas State,Rutgers,1
+1404,Kansas State,South Carolina,3
+1405,Kansas State,Stanford,2
+1406,Kansas State,Syracuse,3
+1407,Kansas State,TCU,18
+1408,Kansas State,Tennessee,1
+1409,Kansas State,Texas,24
+1410,Kansas State,Texas A&M,16
+1411,Kansas State,Texas Tech,24
+1412,Kansas State,UCF,2
+1413,Kansas State,UCLA,4
+1414,Kansas State,USC,2
+1415,Kansas State,Utah,0
+1416,Kansas State,Vanderbilt,2
+1417,Kansas State,Virginia,0
+1418,Kansas State,Virginia Tech,2
+1419,Kansas State,Wake Forest,2
+1420,Kansas State,Washington,5
+1421,Kansas State,Washington State,0
+1422,Kansas State,West Virginia,13
+1423,Kansas State,Wisconsin,2
+1424,Kansas State,Notre Dame,0
+1425,Kansas State,Connecticut,0
+1426,Kansas State,SMU,0
+1427,Kansas State,Tulane,2
+1428,Kentucky,Louisville,32
+1429,Kentucky,LSU,58
+1430,Kentucky,Maryland,7
+1431,Kentucky,Miami,8
+1432,Kentucky,Michigan,1
+1433,Kentucky,Michigan State,4
+1434,Kentucky,Minnesota,0
+1435,Kentucky,Mississippi State,51
+1436,Kentucky,Missouri,14
+1437,Kentucky,NC State,3
+1438,Kentucky,Nebraska,0
+1439,Kentucky,North Carolina,10
+1440,Kentucky,Northwestern,2
+1441,Kentucky,Ohio State,2
+1442,Kentucky,Oklahoma,3
+1443,Kentucky,Oklahoma State,0
+1444,Kentucky,Ole Miss,45
+1445,Kentucky,Oregon,0
+1446,Kentucky,Oregon State,2
+1447,Kentucky,Penn State,6
+1448,Kentucky,Pittsburgh,1
+1449,Kentucky,Purdue,3
+1450,Kentucky,Rutgers,5
+1451,Kentucky,South Carolina,35
+1452,Kentucky,Stanford,0
+1453,Kentucky,Syracuse,1
+1454,Kentucky,TCU,1
+1455,Kentucky,Tennessee,116
+1456,Kentucky,Texas,1
+1457,Kentucky,Texas A&M,3
+1458,Kentucky,Texas Tech,0
+1459,Kentucky,UCF,0
+1460,Kentucky,UCLA,0
+1461,Kentucky,USC,0
+1462,Kentucky,Utah,0
+1463,Kentucky,Vanderbilt,93
+1464,Kentucky,Virginia,1
+1465,Kentucky,Virginia Tech,20
+1466,Kentucky,Wake Forest,0
+1467,Kentucky,Washington,0
+1468,Kentucky,Washington State,0
+1469,Kentucky,West Virginia,19
+1470,Kentucky,Wisconsin,1
+1471,Kentucky,Notre Dame,0
+1472,Kentucky,Connecticut,1
+1473,Kentucky,SMU,1
+1474,Kentucky,Tulane,15
+1475,Louisville,LSU,1
+1476,Louisville,Maryland,4
+1477,Louisville,Miami,15
+1478,Louisville,Michigan,0
+1479,Louisville,Michigan State,3
+1480,Louisville,Minnesota,0
+1481,Louisville,Mississippi State,6
+1482,Louisville,Missouri,1
+1483,Louisville,NC State,13
+1484,Louisville,Nebraska,0
+1485,Louisville,North Carolina,8
+1486,Louisville,Northwestern,0
+1487,Louisville,Ohio State,2
+1488,Louisville,Oklahoma,2
+1489,Louisville,Oklahoma State,2
+1490,Louisville,Ole Miss,1
+1491,Louisville,Oregon,0
+1492,Louisville,Oregon State,2
+1493,Louisville,Penn State,2
+1494,Louisville,Pittsburgh,20
+1495,Louisville,Purdue,2
+1496,Louisville,Rutgers,13
+1497,Louisville,South Carolina,0
+1498,Louisville,Stanford,0
+1499,Louisville,Syracuse,21
+1500,Louisville,TCU,4
+1501,Louisville,Tennessee,5
+1502,Louisville,Texas,2
+1503,Louisville,Texas A&M,4
+1504,Louisville,Texas Tech,0
+1505,Louisville,UCF,4
+1506,Louisville,UCLA,0
+1507,Louisville,USC,1
+1508,Louisville,Utah,4
+1509,Louisville,Vanderbilt,3
+1510,Louisville,Virginia,12
+1511,Louisville,Virginia Tech,9
+1512,Louisville,Wake Forest,10
+1513,Louisville,Washington,0
+1514,Louisville,Washington State,0
+1515,Louisville,West Virginia,13
+1516,Louisville,Wisconsin,0
+1517,Louisville,Notre Dame,4
+1518,Louisville,Connecticut,10
+1519,Louisville,SMU,2
+1520,Louisville,Tulane,11
+1521,LSU,Maryland,3
+1522,LSU,Miami,13
+1523,LSU,Michigan,0
+1524,LSU,Michigan State,1
+1525,LSU,Minnesota,0
+1526,LSU,Mississippi State,114
+1527,LSU,Missouri,4
+1528,LSU,NC State,0
+1529,LSU,Nebraska,6
+1530,LSU,North Carolina,7
+1531,LSU,Northwestern,0
+1532,LSU,Ohio State,3
+1533,LSU,Oklahoma,3
+1534,LSU,Oklahoma State,1
+1535,LSU,Ole Miss,107
+1536,LSU,Oregon,4
+1537,LSU,Oregon State,4
+1538,LSU,Penn State,2
+1539,LSU,Pittsburgh,0
+1540,LSU,Purdue,1
+1541,LSU,Rutgers,1
+1542,LSU,South Carolina,22
+1543,LSU,Stanford,1
+1544,LSU,Syracuse,4
+1545,LSU,TCU,9
+1546,LSU,Tennessee,34
+1547,LSU,Texas,16
+1548,LSU,Texas A&M,61
+1549,LSU,Texas Tech,3
+1550,LSU,UCF,1
+1551,LSU,UCLA,1
+1552,LSU,USC,2
+1553,LSU,Utah,2
+1554,LSU,Vanderbilt,32
+1555,LSU,Virginia,0
+1556,LSU,Virginia Tech,2
+1557,LSU,Wake Forest,3
+1558,LSU,Washington,3
+1559,LSU,Washington State,0
+1560,LSU,West Virginia,2
+1561,LSU,Wisconsin,5
+1562,LSU,Notre Dame,12
+1563,LSU,Connecticut,0
+1564,LSU,SMU,2
+1565,LSU,Tulane,90
+1566,Maryland,Miami,17
+1567,Maryland,Michigan,12
+1568,Maryland,Michigan State,14
+1569,Maryland,Minnesota,7
+1570,Maryland,Mississippi State,1
+1571,Maryland,Missouri,6
+1572,Maryland,NC State,70
+1573,Maryland,Nebraska,3
+1574,Maryland,North Carolina,70
+1575,Maryland,Northwestern,4
+1576,Maryland,Ohio State,9
+1577,Maryland,Oklahoma,4
+1578,Maryland,Oklahoma State,0
+1579,Maryland,Ole Miss,2
+1580,Maryland,Oregon,0
+1581,Maryland,Oregon State,1
+1582,Maryland,Penn State,47
+1583,Maryland,Pittsburgh,5
+1584,Maryland,Purdue,4
+1585,Maryland,Rutgers,19
+1586,Maryland,South Carolina,28
+1587,Maryland,Stanford,1
+1588,Maryland,Syracuse,37
+1589,Maryland,TCU,0
+1590,Maryland,Tennessee,8
+1591,Maryland,Texas,5
+1592,Maryland,Texas A&M,2
+1593,Maryland,Texas Tech,0
+1594,Maryland,UCF,2
+1595,Maryland,UCLA,2
+1596,Maryland,USC,0
+1597,Maryland,Utah,0
+1598,Maryland,Vanderbilt,12
+1599,Maryland,Virginia,79
+1600,Maryland,Virginia Tech,32
+1601,Maryland,Wake Forest,62
+1602,Maryland,Washington,1
+1603,Maryland,Washington State,0
+1604,Maryland,West Virginia,53
+1605,Maryland,Wisconsin,4
+1606,Maryland,Notre Dame,2
+1607,Maryland,Connecticut,3
+1608,Maryland,SMU,3
+1609,Maryland,Tulane,6
+1610,Miami,Michigan,2
+1611,Miami,Michigan State,5
+1612,Miami,Minnesota,0
+1613,Miami,Mississippi State,5
+1614,Miami,Missouri,3
+1615,Miami,NC State,18
+1616,Miami,Nebraska,12
+1617,Miami,North Carolina,27
+1618,Miami,Northwestern,4
+1619,Miami,Ohio State,5
+1620,Miami,Oklahoma,7
+1621,Miami,Oklahoma State,2
+1622,Miami,Ole Miss,3
+1623,Miami,Oregon,1
+1624,Miami,Oregon State,0
+1625,Miami,Penn State,13
+1626,Miami,Pittsburgh,42
+1627,Miami,Purdue,6
+1628,Miami,Rutgers,12
+1629,Miami,South Carolina,16
+1630,Miami,Stanford,0
+1631,Miami,Syracuse,23
+1632,Miami,TCU,9
+1633,Miami,Tennessee,3
+1634,Miami,Texas,4
+1635,Miami,Texas A&M,5
+1636,Miami,Texas Tech,5
+1637,Miami,UCF,2
+1638,Miami,UCLA,3
+1639,Miami,USC,2
+1640,Miami,Utah,0
+1641,Miami,Vanderbilt,8
+1642,Miami,Virginia,21
+1643,Miami,Virginia Tech,40
+1644,Miami,Wake Forest,11
+1645,Miami,Washington,3
+1646,Miami,Washington State,1
+1647,Miami,West Virginia,20
+1648,Miami,Wisconsin,6
+1649,Miami,Notre Dame,27
+1650,Miami,Connecticut,1
+1651,Miami,SMU,1
+1652,Miami,Tulane,12
+1653,Michigan,Michigan State,116
+1654,Michigan,Minnesota,105
+1655,Michigan,Mississippi State,1
+1656,Michigan,Missouri,4
+1657,Michigan,NC State,1
+1658,Michigan,Nebraska,13
+1659,Michigan,North Carolina,3
+1660,Michigan,Northwestern,76
+1661,Michigan,Ohio State,119
+1662,Michigan,Oklahoma,1
+1663,Michigan,Oklahoma State,2
+1664,Michigan,Ole Miss,1
+1665,Michigan,Oregon,5
+1666,Michigan,Oregon State,5
+1667,Michigan,Penn State,27
+1668,Michigan,Pittsburgh,2
+1669,Michigan,Purdue,60
+1670,Michigan,Rutgers,10
+1671,Michigan,South Carolina,4
+1672,Michigan,Stanford,10
+1673,Michigan,Syracuse,12
+1674,Michigan,TCU,1
+1675,Michigan,Tennessee,1
+1676,Michigan,Texas,1
+1677,Michigan,Texas A&M,3
+1678,Michigan,Texas Tech,0
+1679,Michigan,UCF,1
+1680,Michigan,UCLA,11
+1681,Michigan,USC,10
+1682,Michigan,Utah,4
+1683,Michigan,Vanderbilt,11
+1684,Michigan,Virginia,3
+1685,Michigan,Virginia Tech,1
+1686,Michigan,Wake Forest,2
+1687,Michigan,Washington,14
+1688,Michigan,Washington State,4
+1689,Michigan,West Virginia,1
+1690,Michigan,Wisconsin,70
+1691,Michigan,Notre Dame,41
+1692,Michigan,Connecticut,3
+1693,Michigan,SMU,2
+1694,Michigan,Tulane,3
+1695,Michigan State,Minnesota,49
+1696,Michigan State,Mississippi State,4
+1697,Michigan State,Missouri,8
+1698,Michigan State,NC State,6
+1699,Michigan State,Nebraska,13
+1700,Michigan State,North Carolina,3
+1701,Michigan State,Northwestern,60
+1702,Michigan State,Ohio State,51
+1703,Michigan State,Oklahoma,0
+1704,Michigan State,Oklahoma State,0
+1705,Michigan State,Ole Miss,0
+1706,Michigan State,Oregon,7
+1707,Michigan State,Oregon State,8
+1708,Michigan State,Penn State,38
+1709,Michigan State,Pittsburgh,8
+1710,Michigan State,Purdue,68
+1711,Michigan State,Rutgers,15
+1712,Michigan State,South Carolina,0
+1713,Michigan State,Stanford,6
+1714,Michigan State,Syracuse,13
+1715,Michigan State,TCU,2
+1716,Michigan State,Tennessee,0
+1717,Michigan State,Texas,0
+1718,Michigan State,Texas A&M,3
+1719,Michigan State,Texas Tech,1
+1720,Michigan State,UCF,0
+1721,Michigan State,UCLA,6
+1722,Michigan State,USC,8
+1723,Michigan State,Utah,0
+1724,Michigan State,Vanderbilt,0
+1725,Michigan State,Virginia,0
+1726,Michigan State,Virginia Tech,0
+1727,Michigan State,Wake Forest,1
+1728,Michigan State,Washington,5
+1729,Michigan State,Washington State,8
+1730,Michigan State,West Virginia,4
+1731,Michigan State,Wisconsin,55
+1732,Michigan State,Notre Dame,73
+1733,Michigan State,Connecticut,0
+1734,Michigan State,SMU,1
+1735,Michigan State,Tulane,0
+1736,Minnesota,Mississippi State,0
+1737,Minnesota,Missouri,9
+1738,Minnesota,NC State,1
+1739,Minnesota,Nebraska,64
+1740,Minnesota,North Carolina,1
+1741,Minnesota,Northwestern,98
+1742,Minnesota,Ohio State,55
+1743,Minnesota,Oklahoma,2
+1744,Minnesota,Oklahoma State,2
+1745,Minnesota,Ole Miss,1
+1746,Minnesota,Oregon,4
+1747,Minnesota,Oregon State,5
+1748,Minnesota,Penn State,16
+1749,Minnesota,Pittsburgh,12
+1750,Minnesota,Purdue,79
+1751,Minnesota,Rutgers,3
+1752,Minnesota,South Carolina,0
+1753,Minnesota,Stanford,3
+1754,Minnesota,Syracuse,6
+1755,Minnesota,TCU,3
+1756,Minnesota,Tennessee,1
+1757,Minnesota,Texas,1
+1758,Minnesota,Texas A&M,0
+1759,Minnesota,Texas Tech,2
+1760,Minnesota,UCF,0
+1761,Minnesota,UCLA,3
+1762,Minnesota,USC,8
+1763,Minnesota,Utah,2
+1764,Minnesota,Vanderbilt,4
+1765,Minnesota,Virginia,1
+1766,Minnesota,Virginia Tech,0
+1767,Minnesota,Wake Forest,1
+1768,Minnesota,Washington,17
+1769,Minnesota,Washington State,6
+1770,Minnesota,West Virginia,1
+1771,Minnesota,Wisconsin,131
+1772,Minnesota,Notre Dame,5
+1773,Minnesota,Connecticut,0
+1774,Minnesota,SMU,1
+1775,Minnesota,Tulane,1
+1776,Mississippi State,Missouri,4
+1777,Mississippi State,NC State,7
+1778,Mississippi State,Nebraska,1
+1779,Mississippi State,North Carolina,2
+1780,Mississippi State,Northwestern,1
+1781,Mississippi State,Ohio State,0
+1782,Mississippi State,Oklahoma,0
+1783,Mississippi State,Oklahoma State,5
+1784,Mississippi State,Ole Miss,117
+1785,Mississippi State,Oregon,2
+1786,Mississippi State,Oregon State,0
+1787,Mississippi State,Penn State,0
+1788,Mississippi State,Pittsburgh,0
+1789,Mississippi State,Purdue,0
+1790,Mississippi State,Rutgers,0
+1791,Mississippi State,South Carolina,17
+1792,Mississippi State,Stanford,0
+1793,Mississippi State,Syracuse,2
+1794,Mississippi State,TCU,1
+1795,Mississippi State,Tennessee,46
+1796,Mississippi State,Texas,4
+1797,Mississippi State,Texas A&M,17
+1798,Mississippi State,Texas Tech,8
+1799,Mississippi State,UCF,2
+1800,Mississippi State,UCLA,0
+1801,Mississippi State,USC,0
+1802,Mississippi State,Utah,0
+1803,Mississippi State,Vanderbilt,24
+1804,Mississippi State,Virginia,0
+1805,Mississippi State,Virginia Tech,0
+1806,Mississippi State,Wake Forest,1
+1807,Mississippi State,Washington,1
+1808,Mississippi State,Washington State,0
+1809,Mississippi State,West Virginia,2
+1810,Mississippi State,Wisconsin,0
+1811,Mississippi State,Notre Dame,0
+1812,Mississippi State,Connecticut,0
+1813,Mississippi State,SMU,0
+1814,Mississippi State,Tulane,56
+1815,Missouri,NC State,0
+1816,Missouri,Nebraska,96
+1817,Missouri,North Carolina,3
+1818,Missouri,Northwestern,9
+1819,Missouri,Ohio State,13
+1820,Missouri,Oklahoma,96
+1821,Missouri,Oklahoma State,53
+1822,Missouri,Ole Miss,8
+1823,Missouri,Oregon,1
+1824,Missouri,Oregon State,2
+1825,Missouri,Penn State,4
+1826,Missouri,Pittsburgh,1
+1827,Missouri,Purdue,10
+1828,Missouri,Rutgers,0
+1829,Missouri,South Carolina,14
+1830,Missouri,Stanford,1
+1831,Missouri,Syracuse,3
+1832,Missouri,TCU,2
+1833,Missouri,Tennessee,12
+1834,Missouri,Texas,21
+1835,Missouri,Texas A&M,16
+1836,Missouri,Texas Tech,9
+1837,Missouri,UCF,2
+1838,Missouri,UCLA,3
+1839,Missouri,USC,3
+1840,Missouri,Utah,2
+1841,Missouri,Vanderbilt,14
+1842,Missouri,Virginia,1
+1843,Missouri,Virginia Tech,0
+1844,Missouri,Wake Forest,1
+1845,Missouri,Washington,0
+1846,Missouri,Washington State,1
+1847,Missouri,West Virginia,7
+1848,Missouri,Wisconsin,5
+1849,Missouri,Notre Dame,4
+1850,Missouri,Connecticut,2
+1851,Missouri,SMU,23
+1852,Missouri,Tulane,2
+1853,NC State,Nebraska,2
+1854,NC State,North Carolina,104
+1855,NC State,Northwestern,0
+1856,NC State,Ohio State,2
+1857,NC State,Oklahoma,2
+1858,NC State,Oklahoma State,0
+1859,NC State,Ole Miss,0
+1860,NC State,Oregon,0
+1861,NC State,Oregon State,0
+1862,NC State,Penn State,19
+1863,NC State,Pittsburgh,11
+1864,NC State,Purdue,2
+1865,NC State,Rutgers,1
+1866,NC State,South Carolina,55
+1867,NC State,Stanford,0
+1868,NC State,Syracuse,16
+1869,NC State,TCU,0
+1870,NC State,Tennessee,3
+1871,NC State,Texas,1
+1872,NC State,Texas A&M,1
+1873,NC State,Texas Tech,6
+1874,NC State,UCF,3
+1875,NC State,UCLA,2
+1876,NC State,USC,0
+1877,NC State,Utah,0
+1878,NC State,Vanderbilt,3
+1879,NC State,Virginia,59
+1880,NC State,Virginia Tech,51
+1881,NC State,Wake Forest,116
+1882,NC State,Washington,0
+1883,NC State,Washington State,0
+1884,NC State,West Virginia,11
+1885,NC State,Wisconsin,0
+1886,NC State,Notre Dame,4
+1887,NC State,Connecticut,4
+1888,NC State,SMU,3
+1889,NC State,Tulane,1
+1890,Nebraska,North Carolina,1
+1891,Nebraska,Northwestern,17
+1892,Nebraska,Ohio State,10
+1893,Nebraska,Oklahoma,88
+1894,Nebraska,Oklahoma State,43
+1895,Nebraska,Ole Miss,1
+1896,Nebraska,Oregon,8
+1897,Nebraska,Oregon State,11
+1898,Nebraska,Penn State,18
+1899,Nebraska,Pittsburgh,24
+1900,Nebraska,Purdue,12
+1901,Nebraska,Rutgers,6
+1902,Nebraska,South Carolina,4
+1903,Nebraska,Stanford,1
+1904,Nebraska,Syracuse,12
+1905,Nebraska,TCU,7
+1906,Nebraska,Tennessee,3
+1907,Nebraska,Texas,14
+1908,Nebraska,Texas A&M,14
+1909,Nebraska,Texas Tech,11
+1910,Nebraska,UCF,1
+1911,Nebraska,UCLA,13
+1912,Nebraska,USC,5
+1913,Nebraska,Utah,4
+1914,Nebraska,Vanderbilt,0
+1915,Nebraska,Virginia,0
+1916,Nebraska,Virginia Tech,3
+1917,Nebraska,Wake Forest,3
+1918,Nebraska,Washington,10
+1919,Nebraska,Washington State,4
+1920,Nebraska,West Virginia,1
+1921,Nebraska,Wisconsin,17
+1922,Nebraska,Notre Dame,16
+1923,Nebraska,Connecticut,0
+1924,Nebraska,SMU,2
+1925,Nebraska,Tulane,0
+1926,North Carolina,Northwestern,2
+1927,North Carolina,Ohio State,4
+1928,North Carolina,Oklahoma,7
+1929,North Carolina,Oklahoma State,0
+1930,North Carolina,Ole Miss,0
+1931,North Carolina,Oregon,1
+1932,North Carolina,Oregon State,0
+1933,North Carolina,Penn State,1
+1934,North Carolina,Pittsburgh,17
+1935,North Carolina,Purdue,0
+1936,North Carolina,Rutgers,6
+1937,North Carolina,South Carolina,60
+1938,North Carolina,Stanford,3
+1939,North Carolina,Syracuse,7
+1940,North Carolina,TCU,3
+1941,North Carolina,Tennessee,29
+1942,North Carolina,Texas,9
+1943,North Carolina,Texas A&M,1
+1944,North Carolina,Texas Tech,3
+1945,North Carolina,UCF,0
+1946,North Carolina,UCLA,0
+1947,North Carolina,USC,2
+1948,North Carolina,Utah,2
+1949,North Carolina,Vanderbilt,9
+1950,North Carolina,Virginia,118
+1951,North Carolina,Virginia Tech,41
+1952,North Carolina,Wake Forest,105
+1953,North Carolina,Washington,0
+1954,North Carolina,Washington State,0
+1955,North Carolina,West Virginia,3
+1956,North Carolina,Wisconsin,2
+1957,North Carolina,Notre Dame,23
+1958,North Carolina,Connecticut,3
+1959,North Carolina,SMU,2
+1960,North Carolina,Tulane,16
+1961,Northwestern,Ohio State,80
+1962,Northwestern,Oklahoma,4
+1963,Northwestern,Oklahoma State,0
+1964,Northwestern,Ole Miss,0
+1965,Northwestern,Oregon,1
+1966,Northwestern,Oregon State,4
+1967,Northwestern,Penn State,21
+1968,Northwestern,Pittsburgh,7
+1969,Northwestern,Purdue,88
+1970,Northwestern,Rutgers,6
+1971,Northwestern,South Carolina,1
+1972,Northwestern,Stanford,8
+1973,Northwestern,Syracuse,11
+1974,Northwestern,TCU,4
+1975,Northwestern,Tennessee,2
+1976,Northwestern,Texas,1
+1977,Northwestern,Texas A&M,1
+1978,Northwestern,Texas Tech,1
+1979,Northwestern,UCF,0
+1980,Northwestern,UCLA,6
+1981,Northwestern,USC,5
+1982,Northwestern,Utah,4
+1983,Northwestern,Vanderbilt,4
+1984,Northwestern,Virginia,0
+1985,Northwestern,Virginia Tech,0
+1986,Northwestern,Wake Forest,4
+1987,Northwestern,Washington,3
+1988,Northwestern,Washington State,1
+1989,Northwestern,West Virginia,0
+1990,Northwestern,Wisconsin,102
+1991,Northwestern,Notre Dame,48
+1992,Northwestern,Connecticut,0
+1993,Northwestern,SMU,1
+1994,Northwestern,Tulane,4
+1995,Ohio State,Oklahoma,4
+1996,Ohio State,Oklahoma State,2
+1997,Ohio State,Ole Miss,0
+1998,Ohio State,Oregon,10
+1999,Ohio State,Oregon State,3
+2000,Ohio State,Penn State,39
+2001,Ohio State,Pittsburgh,25
+2002,Ohio State,Purdue,59
+2003,Ohio State,Rutgers,10
+2004,Ohio State,South Carolina,2
+2005,Ohio State,Stanford,5
+2006,Ohio State,Syracuse,6
+2007,Ohio State,TCU,7
+2008,Ohio State,Tennessee,1
+2009,Ohio State,Texas,3
+2010,Ohio State,Texas A&M,4
+2011,Ohio State,Texas Tech,2
+2012,Ohio State,UCF,1
+2013,Ohio State,UCLA,9
+2014,Ohio State,USC,24
+2015,Ohio State,Utah,2
+2016,Ohio State,Vanderbilt,4
+2017,Ohio State,Virginia,1
+2018,Ohio State,Virginia Tech,2
+2019,Ohio State,Wake Forest,0
+2020,Ohio State,Washington,12
+2021,Ohio State,Washington State,8
+2022,Ohio State,West Virginia,2
+2023,Ohio State,Wisconsin,86
+2024,Ohio State,Notre Dame,8
+2025,Ohio State,Connecticut,0
+2026,Ohio State,SMU,9
+2027,Ohio State,Tulane,1
+2028,Oklahoma,Oklahoma State,112
+2029,Oklahoma,Ole Miss,1
+2030,Oklahoma,Oregon,8
+2031,Oklahoma,Oregon State,2
+2032,Oklahoma,Penn State,2
+2033,Oklahoma,Pittsburgh,11
+2034,Oklahoma,Purdue,0
+2035,Oklahoma,Rutgers,0
+2036,Oklahoma,South Carolina,0
+2037,Oklahoma,Stanford,5
+2038,Oklahoma,Syracuse,4
+2039,Oklahoma,TCU,24
+2040,Oklahoma,Tennessee,4
+2041,Oklahoma,Texas,116
+2042,Oklahoma,Texas A&M,31
+2043,Oklahoma,Texas Tech,30
+2044,Oklahoma,UCF,1
+2045,Oklahoma,UCLA,6
+2046,Oklahoma,USC,9
+2047,Oklahoma,Utah,1
+2048,Oklahoma,Vanderbilt,3
+2049,Oklahoma,Virginia,1
+2050,Oklahoma,Virginia Tech,1
+2051,Oklahoma,Wake Forest,1
+2052,Oklahoma,Washington,3
+2053,Oklahoma,Washington State,3
+2054,Oklahoma,West Virginia,15
+2055,Oklahoma,Wisconsin,2
+2056,Oklahoma,Notre Dame,11
+2057,Oklahoma,Connecticut,1
+2058,Oklahoma,SMU,8
+2059,Oklahoma,Tulane,2
+2060,Oklahoma State,Ole Miss,3
+2061,Oklahoma State,Oregon,1
+2062,Oklahoma State,Oregon State,1
+2063,Oklahoma State,Penn State,0
+2064,Oklahoma State,Pittsburgh,2
+2065,Oklahoma State,Purdue,2
+2066,Oklahoma State,Rutgers,0
+2067,Oklahoma State,South Carolina,2
+2068,Oklahoma State,Stanford,1
+2069,Oklahoma State,Syracuse,0
+2070,Oklahoma State,TCU,33
+2071,Oklahoma State,Tennessee,1
+2072,Oklahoma State,Texas,38
+2073,Oklahoma State,Texas A&M,29
+2074,Oklahoma State,Texas Tech,50
+2075,Oklahoma State,UCF,1
+2076,Oklahoma State,UCLA,2
+2077,Oklahoma State,USC,0
+2078,Oklahoma State,Utah,1
+2079,Oklahoma State,Vanderbilt,0
+2080,Oklahoma State,Virginia,0
+2081,Oklahoma State,Virginia Tech,3
+2082,Oklahoma State,Wake Forest,0
+2083,Oklahoma State,Washington,3
+2084,Oklahoma State,Washington State,4
+2085,Oklahoma State,West Virginia,15
+2086,Oklahoma State,Wisconsin,1
+2087,Oklahoma State,Notre Dame,1
+2088,Oklahoma State,Connecticut,0
+2089,Oklahoma State,SMU,12
+2090,Oklahoma State,Tulane,0
+2091,Ole Miss,Oregon,0
+2092,Ole Miss,Oregon State,0
+2093,Ole Miss,Penn State,1
+2094,Ole Miss,Pittsburgh,1
+2095,Ole Miss,Purdue,1
+2096,Ole Miss,Rutgers,0
+2097,Ole Miss,South Carolina,17
+2098,Ole Miss,Stanford,0
+2099,Ole Miss,Syracuse,0
+2100,Ole Miss,TCU,7
+2101,Ole Miss,Tennessee,66
+2102,Ole Miss,Texas,8
+2103,Ole Miss,Texas A&M,15
+2104,Ole Miss,Texas Tech,7
+2105,Ole Miss,UCF,1
+2106,Ole Miss,UCLA,0
+2107,Ole Miss,USC,0
+2108,Ole Miss,Utah,0
+2109,Ole Miss,Vanderbilt,95
+2110,Ole Miss,Virginia,0
+2111,Ole Miss,Virginia Tech,2
+2112,Ole Miss,Wake Forest,2
+2113,Ole Miss,Washington,0
+2114,Ole Miss,Washington State,0
+2115,Ole Miss,West Virginia,1
+2116,Ole Miss,Wisconsin,0
+2117,Ole Miss,Notre Dame,2
+2118,Ole Miss,Connecticut,0
+2119,Ole Miss,SMU,3
+2120,Ole Miss,Tulane,65
+2121,Oregon,Oregon State,107
+2122,Oregon,Penn State,4
+2123,Oregon,Pittsburgh,4
+2124,Oregon,Purdue,3
+2125,Oregon,Rutgers,0
+2126,Oregon,South Carolina,0
+2127,Oregon,Stanford,84
+2128,Oregon,Syracuse,0
+2129,Oregon,TCU,3
+2130,Oregon,Tennessee,2
+2131,Oregon,Texas,6
+2132,Oregon,Texas A&M,0
+2133,Oregon,Texas Tech,3
+2134,Oregon,UCF,0
+2135,Oregon,UCLA,72
+2136,Oregon,USC,63
+2137,Oregon,Utah,37
+2138,Oregon,Vanderbilt,0
+2139,Oregon,Virginia,2
+2140,Oregon,Virginia Tech,0
+2141,Oregon,Wake Forest,2
+2142,Oregon,Washington,104
+2143,Oregon,Washington State,95
+2144,Oregon,West Virginia,2
+2145,Oregon,Wisconsin,6
+2146,Oregon,Notre Dame,2
+2147,Oregon,Connecticut,0
+2148,Oregon,SMU,2
+2149,Oregon,Tulane,0
+2150,Oregon State,Penn State,1
+2151,Oregon State,Pittsburgh,2
+2152,Oregon State,Purdue,2
+2153,Oregon State,Rutgers,0
+2154,Oregon State,South Carolina,0
+2155,Oregon State,Stanford,90
+2156,Oregon State,Syracuse,8
+2157,Oregon State,TCU,1
+2158,Oregon State,Tennessee,2
+2159,Oregon State,Texas,3
+2160,Oregon State,Texas A&M,0
+2161,Oregon State,Texas Tech,1
+2162,Oregon State,UCF,0
+2163,Oregon State,UCLA,65
+2164,Oregon State,USC,79
+2165,Oregon State,Utah,26
+2166,Oregon State,Vanderbilt,0
+2167,Oregon State,Virginia,0
+2168,Oregon State,Virginia Tech,0
+2169,Oregon State,Wake Forest,0
+2170,Oregon State,Washington,95
+2171,Oregon State,Washington State,100
+2172,Oregon State,West Virginia,2
+2173,Oregon State,Wisconsin,3
+2174,Oregon State,Notre Dame,3
+2175,Oregon State,Connecticut,0
+2176,Oregon State,SMU,2
+2177,Oregon State,Tulane,0
+2178,Penn State,Pittsburgh,99
+2179,Penn State,Purdue,20
+2180,Penn State,Rutgers,34
+2181,Penn State,South Carolina,2
+2182,Penn State,Stanford,5
+2183,Penn State,Syracuse,71
+2184,Penn State,TCU,4
+2185,Penn State,Tennessee,5
+2186,Penn State,Texas,5
+2187,Penn State,Texas A&M,4
+2188,Penn State,Texas Tech,1
+2189,Penn State,UCF,4
+2190,Penn State,UCLA,6
+2191,Penn State,USC,10
+2192,Penn State,Utah,1
+2193,Penn State,Vanderbilt,1
+2194,Penn State,Virginia,7
+2195,Penn State,Virginia Tech,0
+2196,Penn State,Wake Forest,1
+2197,Penn State,Washington,3
+2198,Penn State,Washington State,2
+2199,Penn State,West Virginia,60
+2200,Penn State,Wisconsin,20
+2201,Penn State,Notre Dame,19
+2202,Penn State,Connecticut,0
+2203,Penn State,SMU,2
+2204,Penn State,Tulane,1
+2205,Pittsburgh,Purdue,7
+2206,Pittsburgh,Rutgers,30
+2207,Pittsburgh,South Carolina,4
+2208,Pittsburgh,Stanford,4
+2209,Pittsburgh,Syracuse,79
+2210,Pittsburgh,TCU,2
+2211,Pittsburgh,Tennessee,4
+2212,Pittsburgh,Texas,3
+2213,Pittsburgh,Texas A&M,3
+2214,Pittsburgh,Texas Tech,0
+2215,Pittsburgh,UCF,3
+2216,Pittsburgh,UCLA,15
+2217,Pittsburgh,USC,10
+2218,Pittsburgh,Utah,3
+2219,Pittsburgh,Vanderbilt,0
+2220,Pittsburgh,Virginia,14
+2221,Pittsburgh,Virginia Tech,23
+2222,Pittsburgh,Wake Forest,3
+2223,Pittsburgh,Washington,5
+2224,Pittsburgh,Washington State,1
+2225,Pittsburgh,West Virginia,99
+2226,Pittsburgh,Wisconsin,3
+2227,Pittsburgh,Notre Dame,73
+2228,Pittsburgh,Connecticut,9
+2229,Pittsburgh,SMU,6
+2230,Pittsburgh,Tulane,7
+2231,Purdue,Rutgers,2
+2232,Purdue,South Carolina,0
+2233,Purdue,Stanford,4
+2234,Purdue,Syracuse,3
+2235,Purdue,TCU,3
+2236,Purdue,Tennessee,2
+2237,Purdue,Texas,2
+2238,Purdue,Texas A&M,1
+2239,Purdue,Texas Tech,0
+2240,Purdue,UCF,2
+2241,Purdue,UCLA,5
+2242,Purdue,USC,4
+2243,Purdue,Utah,0
+2244,Purdue,Vanderbilt,3
+2245,Purdue,Virginia,2
+2246,Purdue,Virginia Tech,2
+2247,Purdue,Wake Forest,5
+2248,Purdue,Washington,10
+2249,Purdue,Washington State,1
+2250,Purdue,West Virginia,2
+2251,Purdue,Wisconsin,90
+2252,Purdue,Notre Dame,87
+2253,Purdue,Connecticut,1
+2254,Purdue,SMU,2
+2255,Purdue,Tulane,0
+2256,Rutgers,South Carolina,0
+2257,Rutgers,Stanford,0
+2258,Rutgers,Syracuse,44
+2259,Rutgers,TCU,0
+2260,Rutgers,Tennessee,4
+2261,Rutgers,Texas,2
+2262,Rutgers,Texas A&M,0
+2263,Rutgers,Texas Tech,0
+2264,Rutgers,UCF,2
+2265,Rutgers,UCLA,0
+2266,Rutgers,USC,0
+2267,Rutgers,Utah,0
+2268,Rutgers,Vanderbilt,3
+2269,Rutgers,Virginia,4
+2270,Rutgers,Virginia Tech,16
+2271,Rutgers,Wake Forest,3
+2272,Rutgers,Washington,2
+2273,Rutgers,Washington State,2
+2274,Rutgers,West Virginia,39
+2275,Rutgers,Wisconsin,5
+2276,Rutgers,Notre Dame,5
+2277,Rutgers,Connecticut,31
+2278,Rutgers,SMU,1
+2279,Rutgers,Tulane,7
+2280,South Carolina,Stanford,0
+2281,South Carolina,Syracuse,0
+2282,South Carolina,TCU,0
+2283,South Carolina,Tennessee,42
+2284,South Carolina,Texas,1
+2285,South Carolina,Texas A&M,10
+2286,South Carolina,Texas Tech,0
+2287,South Carolina,UCF,5
+2288,South Carolina,UCLA,0
+2289,South Carolina,USC,2
+2290,South Carolina,Utah,0
+2291,South Carolina,Vanderbilt,33
+2292,South Carolina,Virginia,35
+2293,South Carolina,Virginia Tech,20
+2294,South Carolina,Wake Forest,56
+2295,South Carolina,Washington,0
+2296,South Carolina,Washington State,0
+2297,South Carolina,West Virginia,12
+2298,South Carolina,Wisconsin,1
+2299,South Carolina,Notre Dame,5
+2300,South Carolina,Connecticut,1
+2301,South Carolina,SMU,0
+2302,South Carolina,Tulane,3
+2303,Stanford,Syracuse,0
+2304,Stanford,TCU,3
+2305,Stanford,Tennessee,0
+2306,Stanford,Texas,4
+2307,Stanford,Texas A&M,1
+2308,Stanford,Texas Tech,0
+2309,Stanford,UCF,2
+2310,Stanford,UCLA,95
+2311,Stanford,USC,102
+2312,Stanford,Utah,10
+2313,Stanford,Vanderbilt,1
+2314,Stanford,Virginia,0
+2315,Stanford,Virginia Tech,1
+2316,Stanford,Wake Forest,2
+2317,Stanford,Washington,93
+2318,Stanford,Washington State,73
+2319,Stanford,West Virginia,1
+2320,Stanford,Wisconsin,6
+2321,Stanford,Notre Dame,37
+2322,Stanford,Connecticut,0
+2323,Stanford,SMU,1
+2324,Stanford,Tulane,8
+2325,Syracuse,TCU,1
+2326,Syracuse,Tennessee,3
+2327,Syracuse,Texas,3
+2328,Syracuse,Texas A&M,0
+2329,Syracuse,Texas Tech,0
+2330,Syracuse,UCF,3
+2331,Syracuse,UCLA,8
+2332,Syracuse,USC,4
+2333,Syracuse,Utah,0
+2334,Syracuse,Vanderbilt,2
+2335,Syracuse,Virginia,6
+2336,Syracuse,Virginia Tech,20
+2337,Syracuse,Wake Forest,13
+2338,Syracuse,Washington,4
+2339,Syracuse,Washington State,1
+2340,Syracuse,West Virginia,61
+2341,Syracuse,Wisconsin,5
+2342,Syracuse,Notre Dame,11
+2343,Syracuse,Connecticut,12
+2344,Syracuse,SMU,1
+2345,Syracuse,Tulane,9
+2346,TCU,Tennessee,2
+2347,TCU,Texas,91
+2348,TCU,Texas A&M,89
+2349,TCU,Texas Tech,66
+2350,TCU,UCF,0
+2351,TCU,UCLA,4
+2352,TCU,USC,5
+2353,TCU,Utah,8
+2354,TCU,Vanderbilt,4
+2355,TCU,Virginia,3
+2356,TCU,Virginia Tech,0
+2357,TCU,Wake Forest,1
+2358,TCU,Washington,1
+2359,TCU,Washington State,2
+2360,TCU,West Virginia,13
+2361,TCU,Wisconsin,2
+2362,TCU,Notre Dame,1
+2363,TCU,Connecticut,0
+2364,TCU,SMU,101
+2365,TCU,Tulane,12
+2366,Tennessee,Texas,3
+2367,Tennessee,Texas A&M,5
+2368,Tennessee,Texas Tech,2
+2369,Tennessee,UCF,0
+2370,Tennessee,UCLA,15
+2371,Tennessee,USC,4
+2372,Tennessee,Utah,3
+2373,Tennessee,Vanderbilt,114
+2374,Tennessee,Virginia,5
+2375,Tennessee,Virginia Tech,6
+2376,Tennessee,Wake Forest,7
+2377,Tennessee,Washington,0
+2378,Tennessee,Washington State,5
+2379,Tennessee,West Virginia,1
+2380,Tennessee,Wisconsin,2
+2381,Tennessee,Notre Dame,8
+2382,Tennessee,Connecticut,1
+2383,Tennessee,SMU,1
+2384,Tennessee,Tulane,5
+2385,Texas,Texas A&M,111
+2386,Texas,Texas Tech,73
+2387,Texas,UCF,2
+2388,Texas,UCLA,7
+2389,Texas,USC,7
+2390,Texas,Utah,2
+2391,Texas,Vanderbilt,10
+2392,Texas,Virginia,3
+2393,Texas,Virginia Tech,1
+2394,Texas,Wake Forest,1
+2395,Texas,Washington,6
+2396,Texas,Washington State,3
+2397,Texas,West Virginia,12
+2398,Texas,Wisconsin,1
+2399,Texas,Notre Dame,12
+2400,Texas,Connecticut,0
+2401,Texas,SMU,73
+2402,Texas,Tulane,14
+2403,Texas A&M,Texas Tech,70
+2404,Texas A&M,UCF,0
+2405,Texas A&M,UCLA,6
+2406,Texas A&M,USC,3
+2407,Texas A&M,Utah,3
+2408,Texas A&M,Vanderbilt,3
+2409,Texas A&M,Virginia,0
+2410,Texas A&M,Virginia Tech,4
+2411,Texas A&M,Wake Forest,1
+2412,Texas A&M,Washington,3
+2413,Texas A&M,Washington State,2
+2414,Texas A&M,West Virginia,1
+2415,Texas A&M,Wisconsin,0
+2416,Texas A&M,Notre Dame,5
+2417,Texas A&M,Connecticut,0
+2418,Texas A&M,SMU,81
+2419,Texas A&M,Tulane,14
+2420,Texas Tech,UCF,1
+2421,Texas Tech,UCLA,0
+2422,Texas Tech,USC,3
+2423,Texas Tech,Utah,2
+2424,Texas Tech,Vanderbilt,1
+2425,Texas Tech,Virginia,1
+2426,Texas Tech,Virginia Tech,0
+2427,Texas Tech,Wake Forest,2
+2428,Texas Tech,Washington,2
+2429,Texas Tech,Washington State,2
+2430,Texas Tech,West Virginia,13
+2431,Texas Tech,Wisconsin,0
+2432,Texas Tech,Notre Dame,0
+2433,Texas Tech,Connecticut,0
+2434,Texas Tech,SMU,49
+2435,Texas Tech,Tulane,5
+2436,UCF,UCLA,0
+2437,UCF,USC,0
+2438,UCF,Utah,0
+2439,UCF,Vanderbilt,0
+2440,UCF,Virginia,0
+2441,UCF,Virginia Tech,3
+2442,UCF,Wake Forest,0
+2443,UCF,Washington,0
+2444,UCF,Washington State,0
+2445,UCF,West Virginia,3
+2446,UCF,Wisconsin,1
+2447,UCF,Notre Dame,0
+2448,UCF,Connecticut,8
+2449,UCF,SMU,11
+2450,UCF,Tulane,13
+2451,UCLA,USC,93
+2452,UCLA,Utah,21
+2453,UCLA,Vanderbilt,1
+2454,UCLA,Virginia,2
+2455,UCLA,Virginia Tech,1
+2456,UCLA,Wake Forest,0
+2457,UCLA,Washington,76
+2458,UCLA,Washington State,63
+2459,UCLA,West Virginia,0
+2460,UCLA,Wisconsin,11
+2461,UCLA,Notre Dame,4
+2462,UCLA,Connecticut,0
+2463,UCLA,SMU,5
+2464,UCLA,Tulane,0
+2465,USC,Utah,23
+2466,USC,Vanderbilt,0
+2467,USC,Virginia,2
+2468,USC,Virginia Tech,1
+2469,USC,Wake Forest,0
+2470,USC,Washington,87
+2471,USC,Washington State,77
+2472,USC,West Virginia,1
+2473,USC,Wisconsin,7
+2474,USC,Notre Dame,94
+2475,USC,Connecticut,0
+2476,USC,SMU,2
+2477,USC,Tulane,4
+2478,Utah,Vanderbilt,0
+2479,Utah,Virginia,0
+2480,Utah,Virginia Tech,0
+2481,Utah,Wake Forest,0
+2482,Utah,Washington,16
+2483,Utah,Washington State,20
+2484,Utah,West Virginia,2
+2485,Utah,Wisconsin,3
+2486,Utah,Notre Dame,1
+2487,Utah,Connecticut,0
+2488,Utah,SMU,2
+2489,Utah,Tulane,0
+2490,Vanderbilt,Virginia,18
+2491,Vanderbilt,Virginia Tech,9
+2492,Vanderbilt,Wake Forest,18
+2493,Vanderbilt,Washington,0
+2494,Vanderbilt,Washington State,0
+2495,Vanderbilt,West Virginia,2
+2496,Vanderbilt,Wisconsin,0
+2497,Vanderbilt,Notre Dame,3
+2498,Vanderbilt,Connecticut,4
+2499,Vanderbilt,SMU,4
+2500,Vanderbilt,Tulane,48
+2501,Virginia,Virginia Tech,99
+2502,Virginia,Wake Forest,50
+2503,Virginia,Washington,1
+2504,Virginia,Washington State,0
+2505,Virginia,West Virginia,22
+2506,Virginia,Wisconsin,1
+2507,Virginia,Notre Dame,4
+2508,Virginia,Connecticut,4
+2509,Virginia,SMU,0
+2510,Virginia,Tulane,6
+2511,Virginia Tech,Wake Forest,40
+2512,Virginia Tech,Washington,0
+2513,Virginia Tech,Washington State,0
+2514,Virginia Tech,West Virginia,54
+2515,Virginia Tech,Wisconsin,0
+2516,Virginia Tech,Notre Dame,4
+2517,Virginia Tech,Connecticut,2
+2518,Virginia Tech,SMU,3
+2519,Virginia Tech,Tulane,10
+2520,Wake Forest,Washington,0
+2521,Wake Forest,Washington State,0
+2522,Wake Forest,West Virginia,2
+2523,Wake Forest,Wisconsin,1
+2524,Wake Forest,Notre Dame,6
+2525,Wake Forest,Connecticut,3
+2526,Wake Forest,SMU,3
+2527,Wake Forest,Tulane,4
+2528,Washington,Washington State,103
+2529,Washington,West Virginia,0
+2530,Washington,Wisconsin,4
+2531,Washington,Notre Dame,8
+2532,Washington,Connecticut,0
+2533,Washington,SMU,0
+2534,Washington,Tulane,1
+2535,Washington State,West Virginia,0
+2536,Washington State,Wisconsin,4
+2537,Washington State,Notre Dame,2
+2538,Washington State,Connecticut,0
+2539,Washington State,SMU,2
+2540,Washington State,Tulane,1
+2541,West Virginia,Wisconsin,4
+2542,West Virginia,Notre Dame,4
+2543,West Virginia,Connecticut,8
+2544,West Virginia,SMU,1
+2545,West Virginia,Tulane,6
+2546,Wisconsin,Notre Dame,17
+2547,Wisconsin,Connecticut,0
+2548,Wisconsin,SMU,2
+2549,Wisconsin,Tulane,0
+2550,Notre Dame,Connecticut,1
+2551,Notre Dame,SMU,13
+2552,Notre Dame,Tulane,8
+2553,Connecticut,SMU,5
+2554,Connecticut,Tulane,4
+2555,SMU,Tulane,30
