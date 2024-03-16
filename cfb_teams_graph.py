@@ -2,7 +2,6 @@ import pandas as pd
 import networkx as nx
 import itertools
 import random
-import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 
@@ -24,9 +23,6 @@ class CFGraph:
                                      edge_labels=nx.get_edge_attributes(self.graph, 'weight'),
                                      font_size=5,
                                      font_color='red')
-        plt.savefig('graph.png',
-                    format='png',
-                    bbox_inches='tight')
 
     def partition_graph(self, num_partitions, num_iterations=1000):
         nodes = list(self.graph.nodes())
