@@ -1,0 +1,90 @@
+
+Partition 1
+Missouri
+Oklahoma
+Kansas State
+Iowa State
+Kansas
+Nebraska
+Oklahoma State
+Colorado
+
+Partition 2
+Tennessee
+Auburn
+Alabama
+Ole Miss
+LSU
+Kentucky
+Vanderbilt
+Mississippi State
+
+Partition 3
+Oregon
+Washington
+Washington State
+Oregon State
+Stanford
+California
+UCLA
+USC
+
+Partition 4
+Northwestern
+Wisconsin
+Purdue
+Illinois
+Ohio State
+Minnesota
+Indiana
+Iowa
+
+Partition 5
+North Carolina
+Maryland
+Virginia
+NC State
+Duke
+South Carolina
+Wake Forest
+Clemson
+
+Partition 6
+SMU
+TCU
+Arkansas
+Texas Tech
+Texas A&M
+Baylor
+Texas
+Houston
+
+Partition 7
+Syracuse
+Pittsburgh
+West Virginia
+Rutgers
+Penn State
+Boston College
+Virginia Tech
+Connecticut
+
+Partition 8
+Tulane
+UCF
+Cincinnati
+Arizona State
+Arizona
+BYU
+Utah
+Louisville
+
+Partition 9
+Florida
+Michigan State
+Georgia
+Michigan
+Notre Dame
+Florida State
+Georgia Tech
+Miami
