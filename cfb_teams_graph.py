@@ -47,7 +47,10 @@ class CFGraph:
                 break
             progress_bar.update(1)
 
-        for i, partition in enumerate(partitions):
-            print(f"Partition {i + 1}: {partition}")
+        with open(f'partitions{int(len(nodes) / num_partitions)}.txt', 'w') as f:
+            for i, partition in enumerate(partitions):
+                f.write(f'\nPartition {i + 1}\n')
+                for team in partition:
+                    f.write(f'{team}\n')
 
         return partitions
